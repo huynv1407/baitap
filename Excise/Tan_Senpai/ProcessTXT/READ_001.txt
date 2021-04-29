@@ -1,0 +1,866 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/333749049
+Internet Financial Reporting and Expected Stock Return
+Article · June 2019
+CITATIONS
+0
+READS
+303
+2 authors:
+Some of the authors of this publication are also working on these related projects:
+Internet Financial Reporting View project
+Digital reporting View project
+Mohammed Mahmoud Yassin
+Al-Zaytoonah University of Jordan
+11 PUBLICATIONS   36 CITATIONS   
+SEE PROFILE
+Esraa Alkhatib
+Al-Zaytoonah University of Jordan
+7 PUBLICATIONS   6 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Mohammed Mahmoud Yassin on 23 September 2019.
+The user has requested enhancement of the downloaded file.
+Journal of Accounting, Finance & Management Strategy, Vol. 14, No. 1, Jun. 2019, 1-28
+1
+Internet Financial Reporting and Expected Stock Return
+Mohammed M. Yassin1
+*, -Khatib2
+Abstract
+This study aimed at testing the efficiency of capital markets, through
+testing the effect of internet financial reporting (IFR) and its components
+content and format on the expected stock return. The sample consisted of
+the public shareholding companies listed in Amman Stock Exchange (ASE)
+in 2017. IFR index consisted of 30 attributes (12 for content and 18 for
+stock return, risk, and trading volume. An OLS analysis was used to test
+make their investment decisions. The results provide a basis for mapping
+existing and future studies on Internet reporting and constructing
+scenarios of future Internet financial reporting. Our study contributes to
+the emerging literature by expanding our understanding of how the
+investors can depend heavily on IFR to make their investment decisions.
+The results should be of interest to the public shareholding companies,
+regulators in Jordan, and other jurisdictions planning internet financial
+reporting initiatives.
+Keywords: Amman Stock Exchange, Expected Stock Return, Internet
+Financial Reporting, Jordan, Market Efficiency, Voluntary Disclosure
+JEL Classification: M41, G39
+ 1 Associate professor in accounting at Al-Zaytoonah University of Jordan, P.O.Box 130 Amman 11733, Jordan, * E-mail: mohammed.yassin@zuj.edu.jo
+2 Assistant professor in accounting at Al-Zaytoonah University of Jordan, P.O.Box 130 Amman 11733, Jordan,
+e-mail: e.alkhatib@zuj.edu.jo 
+Mohammed M. Yassin, -Khatib
+2
+1. Introduction
+Around the world an ever-increasing number of companies have
+World Wide Web (Web) sites on the Internet (Lymer et al., 1999). In the
+UK literature, some studies use first-generation of digital reporting to
+refer to the first level of Internet reporting whereby companies make their
+business information available online (Cobb, 2008; Dunne et al., 2009).
+Companies are able to convert their business information from paper
+based reporting into Portable Document Format or Hyper Text Mark-Up
+Language, and they disseminate the information on their websites
+(Debreceny and Gray, 1999; Allam and Lymer, 2003). The main advantage
+of this process is to allow greater amounts of information about the
+company to be accessed by a diverse range of stakeholders on the Internet
+(Adams and Frost, 2004). Thus, it allows businesses to create a presence
+on the Web (Gray and Debreceny, 1997; Lymer et al., 1999, Azam and
+Taylor, 2012).
+First-generation digital reporting is designed to address the issues of
+using paper or electronic medium like CD-ROM. CD-ROM was an early
+attempt to break away from paper-based reporting (Lymer et al., 1999).
+Although using CD-ROMs is cheaper and quicker than paper-based
+reporting to distribute large amounts of business and financial information
+to different stakeholders, they are still distributed by physical means
+(Lymer et al., 1999; Azam and Taylor, 2012). In addition, the sender of
+business information should keep some personal information about the
+receivers (such as name and addresses, etc.) to make sure that information
+is sent to the intended destination. Moreover, sharing of CD-ROMs is slow,
+expensive and clumsy between different users in the office environment,
+compared with other new technologies, for example, PDFs. Recently, most
+companies use the power of the internet to provide useful information to 
+Internet Financial Reporting and Expected Stock Return
+3
+the users of financial statements (Kieso et al., 2011).
+In the literature, similar terms with a common meaning are used,
+including online business reporting (Boritz and No, 2003), web-based
+business reporting (Lymer et al., 1999), Internet corporate reporting
+(Lymer and Tallberg, 1997; Lymer and Debrecency, 2003), Internet
+financial reporting (Debreceny and Gray, 1999, 2001; Xiao et al., 2002;
+Jones and Xiao, 2003). They broadly discuss the benefits, challenges and
+issues that are expected from using Internet technologies to submit the
+business information on the Internet. Diamond and Verrecchia (1991)
+found that if the level of disclosures is increased, the level of information
+asymmetry is decreased, resulting in more demand from investors. Yoon et
+al (2011) show that business reporting in the XBRL format is important to
+filing companies. Thus, if a company publish highly quality financial
+reports in standard format, investors are more likely to appraise the
+company as less risky. This could lead to a decrease in the cost of capital
+and an increase in the firm's stock price. If the level of financial
+disclosures is increased by adopting IFR, information asymmetry is
+expected to be reduced, which could lead to a decrease in the cost of
+capital and an increase in the firm value.
+Following previous studies on Internet financial reporting
+(Debreceny and Gray, 1999, 2001; Xiao et al., 2002; Jones and Xiao,
+2003), we define Internet Financial reporting (IFR) as the public reporting
+of financial data by public shareholding companies via the World Wide
+Web or related Internet-based communications medium. In this study, IFR
+can be accessed either by Google search engine to determine the
+availability of a Website or/and the Web site of Securities Depository
+Center (SDC) in Jordan. Companies might be motivated to use internet to
+disseminate information to users to gain benefits such as cutting costs of
+distributing hard copies of financial reports, and facilitating 
+Mohammed M. Yassin, -Khatib
+4
+communication with different stakeholders (Xiao et al., 2002). Companies'
+websites, in particular, are a vital means of communication for investor
+relations departments, making them a major source of information for
+investors and analysts (ICAEW, 2004).
+Despite IFR is still a voluntary disclosure tool in developing
+countries (Ojah and Mokoaleli, 2012), the IASB issued guidelines for IFR,
+indicating that any report provided online should have a uniform scope as
+the traditional hard copy versions. The IASB aimed with these guidelines
+to provide users with complete, transparent and safe financial information
+on the internet (Lymer et al., 1999). In addition to that, Chapter 5 -
+Paragraph 4 of the corporate governance code for Amman Stock Exchange
+Commission, 2015).
+IFR should help in bridging the gap between investors and managers
+in addition to reducing information asymmetry between informed and
+uninformed investors (Jean-François, 2015), but away from that, the
+voluntary nature of information provided by IFR has led to different
+content and format (FASB, 2000) which makes it difficult to achieve
+consistency, completeness, and reliability of financial information.
+Recent studies have argued that stock market return is predictable
+over short horizons (Bollerslev et al., 2014). Expected stock return is a
+function of information (Lipe, 1990). If a company provides high quality
+standard financial information in its content and format, investors will
+appraise the company as less risky. This will be reflected into a decrease in
+the cost of capital, which will increase the stock return (Yoon et al., 2011).
+In addition, Diamond and Verrecchia (1991) argued that the increase in
+disclosure level will be reflected in a decrease in information asymmetry, 
+Internet Financial Reporting and Expected Stock Return
+5
+which will result an increase in stock return.
+Prior studies in the accounting literature provide evidence on some
+that expected returns tend to line up with various firm characteristics.
+Harvey et al. (2016) lists 314 factors that predict stock returns, and found
+some of them are highly correlated. Subrahmanyam (2010) based on more
+than 50 variables to predict stock returns, but the findings suggest that
+more needs to be done to assert the predictability of these variables.
+(Green et al., 2013) analyzed the population of return predictive signals
+(RPS) and found more than 330 signals have been reported. Ou and
+Penman (1989) conducted a financial statement analysis and aggregated
+financial characteristics from financial statements into one composite
+measure which can predict future earnings and returns. They suggested
+that financial statements capture fundamentals that are not reflected in
+prices.
+Lai et al., 2010 suggested that there are large number of variables
+which related to expected returns poses some important questions: Which
+information is most important to expect the stock returns? And how to
+aggregate this information to construct the most precise estimates of
+expected returns?. Prior research in this context focused on firm
+characteristics collected from the reported financial statements (e.g. Light
+et al., 2017; Harvey et al., 2016; Green et al., 2013; Subrahmanyam, 2010;
+Ou and Penman, 1989) with a noticeable ignorance of the other
+information. Although the abundant research on IFR focused on the
+determinants of IFR (e.g. Yassin, 2017; Almilia, 2015; Cormier et al., 2008;
+Debreceny et al., 2002; Ashbaugh et al., 1999), there is limited research
+concentrated on IFR consequences as suggested by Lai et al., (2010) and
+Wagenhofer (2007). This paper attempts to understand the effect of IFR on
+the market efficiency of Amman Stock Exchange (ASE). The main 
+Mohammed M. Yassin, -Khatib
+6
+purpose is to test whether IFR can predict the stock return. Our study
+addresses the following research question: Does IFR affect the expected
+stock return?
+The paper is organized as follows. First, it reviews the literature
+relevant to IFR and its relationship to stock return. Second, the research
+methodology is presented. Third, the results are discussed. Finally, the
+paper concludes.
+2. Literature Review And Hypotheses Development
+The Jordanian government has implemented some initiatives to
+encourage the use of IFR by large listed companies In 2006, the ASE
+signed a cross-listing agreement with ADX and DFM (Addustour
+Newspaper, 2007) in Jordan which provides companies an opportunity to
+access the high-liquidity markets that began to emerge over the last few
+years (Yassin, 2017).
+Efficient Market Hypothesis (EMH) predicted that if markets are
+efficient then, in equilibrium, stock prices only respond when useful
+information entering the market (Beaver, 1968). Fama (1969) argued that
+ information in
+stock prices. That is, when information arises, the news will incorporate
+into the stock price quickly. Thus, neither technical nor fundamental
+analysis would enable an investor to achieve abnormal returns. EMH is
+represent random departures from previous prices. That is, if information
+ price changes
+today. As a result, prices fully reflect all known information, and
+uninformed investors will obtain the same rate of return as that achieved 
+Internet Financial Reporting and Expected Stock Return
+7
+by the informed investors. Departing from the random walk idea, many
+financial economists and statisticians started to believe that stock prices
+are at least partially predictable (Malkiel, 2003).
+Recent research suggested that shareholders with better access to
+quality accounting information should be able to protect themselves more
+effectively against self-serving managers and to make better decisions
+concerning the purchase of new equity (Berglöf and Pajuste, 2005).
+Organizations consider IFR a tool to communicate effectively with
+investors, stockholders, and other stakeholders, and organizations can
+increase the quantity of information and can disclose disaggregate and
+incremental financial information on their web sites (Ashbaugh et al.,
+1999). Lymer et al. (1999) concluded that decision making processes were
+accelerated by improving financial disclosure and by providing more
+timely information. Furthermore, IFR can increase the share liquidity and
+lowers the cost of capital by enhancing disclosures (Oyeler et al., 2003).
+Recently, a number of studies have been emerged in the area of IFR
+(e.g. Larren, 2002; Pervan, 2006; Cormier et al., 2009). The literature
+provides evidence that organizations benefit from IFR in increasing firm
+value, and decreasing cost of financing. Their results support their
+arguments, which showed that the more IFR, greater transparency, broader
+ranges of information, consequently the more firm value and the less
+investor risk.
+Profitability motivates management to use IFR. Aly et al. (2010),
+Al-Sakarneh (2011), and Miniaoui and Oyelere (2013) found that
+profitability positively affects IFR. Ahmed et al. (2002) concluded that
+more profitable firms tend to disclose more information because
+management likes to show off its achievements to reflect a good reputation
+and to raise capital under the best terms. Balvers et al. (2017) found that 
+Mohammed M. Yassin, -Khatib
+8
+stock return is determined by profitability, they argued that profitable
+firms are predicted to have higher returns.
+Furthermore, voluntary financial reporting had been examined in a
+considerable amount of literature in the last decade (e.g. Liu et al., 2018;
+Guay et al., 2016; Dhaliwal et al., 2014; Dhaliwal et al., 2011; Beyer et al.,
+2010). There is some evidence about the benefits that companies gain
+from voluntary disclosure, such as enhancing firm value, reducing
+information asymmetry, and reducing the cost of financing. In this line,
+IFR should reflect the disclosed information in the stock price, which in
+turn will provide greater value investors, taking into consideration that
+IFR will make the information available to all investors without delay and
+with minimum information asymmetry (Lai et al., 2010). Accordingly, our
+first hypothesis is as follows:
+H0: IFR is significantly positively affects expected stock return.
+3. Amman Stock Exchange In The Arab Region
+The main objective of the cross-listing agreement signed between
+ASE from one side and ADX and DFM from the other side in 2006, is to
+attract the cross-borders investors. ASE plays an important role in
+diversifying the types of instruments available to investors, in addition to
+removing the restrictions on foreign investments in listed companies
+(Saadi-Sedik and Petri, 2006).
+ASE is an active member in the Arab Federation of Exchanges (AFE)
+since 1999. Also it is a member in the Federation of Euro-Asian Stock
+Exchanges (FEAS) and World Federation of Exchanges (WFE)
+(http://www.ase.com.jo). 
+Internet Financial Reporting and Expected Stock Return
+9
+ASE is composed of three major sectors; financial, industrial, and
+service. The market is organized as first and second markets which
+classify the securities into them based on listing rules. Equity instruments
+are the most traded in the market, and most trading occurs in the first
+market (Saadi-Sedik and Petri, 2006).
+Table (1) shows the AFE statistics for the year 2017 which indicates
+that ASE occupied the ninth rank among sixteen Arab exchanges in terms
+of market capitalization, the eighth rank in terms of traded shares value,
+the sixth in terms of number of trades, and the second in the number of
+listed companies which reached to 195 companies. This number was a
+result of good market environment, which could offer an attraction to
+potential cross-borders investment opportunities.
+A study performed by the AFE aimed at testing the readiness of its
+members to attract international investors, and it had listed some
+characteristics for the member exchanges, and it concluded that many of
+the Arab exchanges have many advantages for investors to encourage their
+external investments. Unfortunately, during the downtrend periods, the
+Arab Exchanges suffer from lack of liquidity. Some efforts are conducted
+now in order to enhance this liquidity (Khalaf, 2018) However,, they
+meet the international requirements and needs, such as the full disclosure,
+tudies, the Market Making
+(Khalaf, 2015). 
+Mohammed M. Yassin, -Khatib
+10
+Table (1) 2017Yearly Figures for Amman Stock Exchange and Other Arab Stock
+Exchanges
+Financial Market Market
+Capitalizatio
+n (Million
+USD)
+Number of
+Trades
+Value of
+Shares
+Traded
+(Million
+USD
+Number of
+Listed
+Companies
+Saudi Stock Exchange
+(TADAWUL) 450,861 21,895,281 223,007 179
+Qatar Stock Exchange
+(QSE) 129,322 834,394 18,150 45
+Abu Dhabi Securities
+Exchange (ADX) 124,516 347,327 13,092 69
+Dubai Financial
+Market (DFM) 107,365 1,078,744 31,260 66
+Boursa Kuwait 92,747 1,207,358 19,017 177
+Casablanca Stock
+Exchange (CASA) 67,026 288,002 6,803 74
+Muscat Securities
+Market (MSM) 46,626 163,954 2,578 112
+Egyptian Exchange
+(EGX) 46,533 7,033,782 18,738 254
+Amman Stock
+Exchange (ASE) 23,925 717,494 4,127 195
+Bahrain Bourse (BHB) 21,608 19,440 561 43
+Beirut Stock Exchange
+(BSE) 11,473 10,088 762 10
+Iraq Stock Exchange
+(ISX) 8,934 95,806 750 101
+Tunis Stock Exchange
+(BVMT) 8,797 361,270 969 81
+Palestine Exchange
+(PEX) 3,891 53,205 469 48
+Khartoum Stock
+Exchange
+(KHARTOUM)
+2,975 37,995 126 65
+Damascus Securities
+Exchange (DSE) 1,475 23,660 29 24
+Source: Arab Federation of Exchanges, 2017 
+Internet Financial Reporting and Expected Stock Return
+11
+4. Research Methodology
+4.1 Sampling
+This study consisted of Jordanian public shareholding companies
+listed on the ASE at the end of 2017, which represents the latest data
+available about the listed companies. A comprehensive population was
+surveyed to include all 195 of the companies listed. Table (2) provides a
+description of the population according to the sectors they belong to.
+Twenty two companies were eliminated because they were excluded from
+listing on the ASE for the reasons of mergers, reductions of shareholding
+capital, or missing data. The final sample was 173 companies.
+Table (2) Distribution of the population by sector
+Sector Financial Industrial Service Total
+Sample N % n % n % n %
+Total 100 51 49 25 46 24 195 100
+ 8 8 2 4 12 26 22 11
+Final Sample 92 53 47 27 34 20 173 100
+ 68 74 37 79 32 94 137 79
+ 24 26 10 21 2 6 36 21
+4.2 Data Collection
+Data about the independent variable (IFR) were collected from two
+sources: Google search engine to determine the availability of a Website or
+not, and the Web site of Securities Depository Center (SDC). Then, the
+companies with Web sites were investigated for IFR engagement. It could 
+Mohammed M. Yassin, -Khatib
+12
+be noticed from table (2) that 79 percent of the listed companies maintain
+websites, representing 94 percent of the service sector, 79 percent of the
+industrial sector, and 74 percent of the financial sector.
+Data about the dependent variable were collected from two sources:
+the latest company guide available on the ASE website and financial
+reports.
+4.3 Measurements
+4.3.1 Model
+Ordinary Least Square (OLS) regression was used to predict the
+expected stock return using IFR and its components content and format,
+in addition to control variables as shown in equation (1), noting that IFR,
+content and format will be tested separately in three different models (1, 2,
+and 3 as shown in the results), each with the control variables.
+(1)
+Where: is the expected stock return for company i in the period t,
+ is Internet Financial Reporting Index, is the content of
+IFR, is the format of IFR, is the leverage, is
+the firm size, is the profitability, is the liquidity, and
+is the error term. 
+Internet Financial Reporting and Expected Stock Return
+13
+4.3.2 Dependent Variable
+Expected stock return will be calculated in two steps:
+First, stock return is calculated using the difference between current
+price and previous price plus dividends, all divided by previous stock
+price.
+Second, following (Karpoff, 1987; Brock and Lebaron, 1996; Lee
+and Rui, 2002; Mestel et al., 2003; Yassin et al., 2015) stock return is
+return, risk, and trading volume. Where, the stock risk will be measured
+following (Floros, 2009) as the difference between highest price and
+lowest price, all divided by the daily average stock price. The trading
+volume will be measured by calculating the natural logarithm of the daily
+trading volume.
+This study used the following model shown in equation (2) to
+estimate stock return:
+ (2)
+Where is the expected stock return for company i in the period t,
+ is the stock return for company i in the previous period t-1,
+is the stock risk for company i in the period t, is the trading volume
+for company i in the period t, and is the error term.
+The companies tested in equation number (1) should have at least 180
+trading days per year in order to avoid the thin trading problem. The final
+sample was 85 companies. 
+Mohammed M. Yassin, -Khatib
+14
+4.3.3 Independent Variable
+Previous researchers have shown that IFR could be divided into
+content and format (Yap et al., 2011). following (Sharma, 2013; Yap et al.,
+2011; Damaso & Lourenco, 2011; Homayoun & Abdul Rahman, 2010;
+Ettredge et al., 2001), an IFR index was developed and contained of 30
+attributes (12 for the content, and 18 for the format) as shown in table (3).
+Following Kelton and Yang (2008) and Homayoun and Abdul Rahman
+(2010), this study employed an un-weighted approach because it avoids
+weighting subjectivity.
+Table (3) Dependent Variable - IFR Index Attributes
+Websites at
+which item is
+found
+Rank Attribute n %*
+Content
+1 Annual report 121 88.3
+2 Dividends history 76 55.5
+3 PDF format of Financial Report 72 52.6
+4 Management Discussion & Analysis 69 50.4
+5 Excel format of Financial Statements 69 50.4
+6
+Three Year Summary (Financial ratios, key statistics, or
+other information presented apart from the annual report)
+67 48.9
+7 Information and history of share price 63 46.0
+8 Annual general meeting audio/video and transcripts 61 44.5
+9 The last three years annual report 59 43.1
+10 Dividend Re-Investment Plan (DRIP) description 58 42.3
+11 Financial highlights 53 38.7
+12 Financial information link to ASE 50 36.5
+Overall Content 818 49.76
+Internet Financial Reporting and Expected Stock Return
+15
+Websites at
+which item
+is found
+Rank Attribute n %*
+Format
+1 Information is presented in a timely fashion, is complete and
+up-to-date
+137 100.0
+2 The presentation is clear, well organized, intuitive and
+attractive
+123 89.8
+3 Material printed from the site is easily readable 113 82.5
+4 Information is archived (historical information is accessible
+to the user)
+106 77.4
+5 Large PDF files are broken down into usable sections and
+clearly identified as PDFs with file sizes indicated
+104 75.9
+6 File sizes are listed and presentations are easily
+downloadable
+102 74.5
+7 The site presents a message consistent with actual financial
+performance, important transactions, and company
+difficulties during the year
+78 56.9
+8 There is a summary of all PDF documents, especially as it
+relates to financial documents
+77 56.2
+9 Notes to financial statements and MD&A abstracts are
+linked to the financial statements
+76 55.5
+10 There is a useful search tool or site map 73 53.3
+11 Information is clear and logically organized 69 50.4
+12 Navigation is consistent throughout the site 65 47.4
+13 The financial information pages of the site can be accessed
+quickly
+63 46.0
+14 Multiple ways exist to navigate the site/access information 56 40.9
+15 The navigation is structured towards the most commonly
+requested pages
+49 35.8
+16 Analytical (spreadsheet) tools are provided 44 32.1
+17 The financial statements are structured to facilitate easy
+online access
+40 29.2
+18 Hyperlinks connect the website with other useful third-party
+sites, such as ASE
+32 23.4
+ Overall Format 1407 57.06
+* : Percentage of the total sample with websites (137 companies)
+Source: Adapted from (Yassin, 2017) 
+Mohammed M. Yassin, -Khatib
+16
+4.3.4 Control Variables
+Control variables used in this research will be measured as shown in
+the table (4)
+Table (4) Control Variables
+Type Variable (in the model) Proxy
+Expected
+Sign
+Financial Leverage (Leverage) Total Liabilities/ Total Assets +
+Firm Size (Size) Natural Logarithm of Market
+Capitalization
++
+Profitability (Profit) Earnings Per Share +
+Liquidity (Liquid) Current Assets/ Current
+Liabilities
++
+5. Results
+5.1 Univariate Analysis
+The study performs univariate descriptive analysis of the collected
+data. The final sample of 173 companies was divided into two categories:
+IFR companies and non-IFR companies. Univariate analysis for these
+companies is presented in Table (5). The results indicate the presence of
+means that IFR companies are larger than non-IFR companies. 
+Internet Financial Reporting and Expected Stock Return
+17
+Table (5) Univariate Analysis for Differences between IFR and Non-IFR
+Companies
+Means t-test for Equality of Means
+IFR
+(n = 137)
+Non_IFR
+(n = 36)
+Mean
+Difference
+t-value Sig.
+Variable Size 16.77 15.62 1.15 4.072 .000**
+Profit 0.04 -0.05 0.09 1.328 .186
+Liquid 4.72 4.82 -0.09 -.043 .966
+Leverage 38.69 32.58 6.10 1.170 .244
+* Significant at (p
+5.2 Multivariate Analysis
+As mentioned earlier, 137 companies were described as IFR
+companies, 85 of them have data about stock return. OLS regression
+analysis was employed to test our hypothesis.
+Using equation (2), expected stock return was estimated, and the
+results of this estimation is shown in table (6).
+Table (6) OLS Regression Analysis to Estimate Stock Return
+Predictor Beta SE Expected
+Beta
+P value
+Constant -0.801 0.351 .025**
+R0 -0.194 0.051 -0.427 .000**
+Risk 0.191 0.142 0.153 .183
+Volume 0.042 0.023 0.191 .071*
+* Significant at (p 
+Mohammed M. Yassin, -Khatib
+18
+Using the estimated betas from table (6), we calculate the estimated
+expected return for each company. Then we use these values in equation (1)
+to test our hypothesis. Employing OLS regression analysis, we found the
+following results shown in table (7).
+Table (7) summarizes the regression results of the effects of IFR
+practices, its content and format on expected stock returns. It is clear from
+model (1) that the composite index of IF
+0.05). These findings remained constant in models (2) and (3) for the
+effect of content and format, but the significance of profitability faded in
+model (2).
+The findings in model (1) and (3) are normal, but the unusual finding
+is the insignificance effect of profitability on the expected stock return in
+model (2), and this could be referred to combining it with the content of
+IFR which could be seen as the major determinant of the expected stock
+return.
+Table (7) Multivariate OLS Regression Results
+Model
+(1) (2) (3)
+Variable IFR Content Format
+(Constant) -0.165 -0.245 0.006
+(-1.103) (-1.599) (0.046)
+IFR 1.014**
+(7.626)
+Content 0.835**
+(7.475)
+Format 0.703**
+(8.566)
+Size -0.038 0.025 -.009
+(-0.510) (0.334) (-0.120)
+Internet Financial Reporting and Expected Stock Return
+19
+Model
+(1) (2) (3)
+Variable IFR Content Format
+Liquid 0.041 0.049 0.0.39
+(0.521) (0.618) (0.516)
+Leverage 0.059 0.036 -0.024
+(0.725) (0.444) (-0.313)
+Profit -.303** -0.101 0.173**
+(-2.291) (-0.891) (2.108)
+R-square 0.579 0.572 0.621
+Durbin-Watson 1.955 2.084 2.002
+F-value 24.113** 23.448** 28.542**
+Number of Observations 85 85 85
+* Significant at (p
+Numbers in parenthesis are t-statistics
+By examining the R-squared across the three models in Table (7),
+which regressed the expected stock return for IFR and its components in
+addition to control variables, one can note that the explanatory power of
+the composite-IFR, IFR-content, and IFR-format were high, ranging from
+57.2% to 62.1%, indicating that IFR and its components are major
+determinants of expected stock return.
+To summarize, OLS results generally support H0, and this support
+was persistent in all of the three models - IFR, content, and format.
+6. Conclusion
+The number of investors who use the internet to search for
+investment opportunities and to conduct online stock trading is constantly
+growing, making IFR an important area of academic research (Kelton and
+Yang, 2008). Although it is still voluntarily used in Jordanlike other 
+Mohammed M. Yassin, -Khatib
+20
+countries worldwide. The internet is used intensively by companies to
+disseminate financial information (Debreceny et al., 2002). This study
+builds on prior stock returns and IFR research by studying the effect of
+IFR and its components content and format on the expected stock return.
+decisions.
+The results of the univariate analysis indicate that IFR companies are
+more profitable than non-IFR ones. Multivariate OLS analysis was applied
+and showed that expected stock return could be estimated using IFR and
+its components content and format. The results should help in enhancing
+IFR on the web sites of companies in a way that help investors make the
+right decision. In addition, policy makers and regulators will improve
+their information concerning the voluntary IFR practices in a way that
+may help in formulating policies that enhance the market efficiency. this
+paper will help in setting the basic standards of eXtensible Business
+Reporting Language (XBRL) in Jordan, since ASE as many other
+exchanges in the Middle East is setting to leverage the standard to help
+raise the visibility of public companies to walk in the footsteps of Abu
+Dhabi Securities Exchange (ADX) and Dubai Financial Market (DFM) in
+United Arab Emirates and TADAWUL in Saudi Arabia (XBRL, 2016).
+The results also provide empirical evidence for regulators to consider
+a generally accepted framework for IFR instead of keeping it voluntary
+because of the increasing use of the internet as a tool to disseminate
+financial information, XBRL is spreading quickly around the world, and
+stakeholders benefit from internet reporting for making decisions. Further
+research could employ different indexes of IFR. Also, using different
+models for expected stock return to test the robustness of results. One
+limitation of this research is the use of one year data, depending on the
+available information. 
+Internet Financial Reporting and Expected Stock Return
+21
+References
+[1] Adams, C., & Frost, G. R. (2004) The Development of Corporate
+Web-Sites and Implications For Ethical, Social and Environmental
+Reporting Through These Media. Edinburgh: Institute of Chartered
+Accountants of Scotland [online]
+https://www.icas.com/__data/assets/pdf_file/0005/159593/The-devel
+opment-of-corporate-websites.pdf (Accessed: 12 September 201).
+[2] Addustour Newspaper (2007) Negotiations about the timing between
+the stock exchanges and the process of trading teams, 18 August,
+Year 41, No. 14754 [online] http://www.addustour.com (Accessed on
+March 2018).
+[3] Ahmed, A. S., Billings, B. K., Morton, R. M., & Stanford-Harris, M.
+(2002). The Role of Accounting Conservatism in Mitigating
+Bondholder-Shareholder Conflicts Over Dividend Policy and in
+Reducing Debt Costs. The Accounting Review, 77(4), 867-890.
+[4] Allam, A., & Lymer, A. (2003). Developments in Internet Financial
+Reporting: Review and Analysis, Across Five Developed Countries.
+International Journal of Digital Accounting Research, 3(6), 165-200.
+[5] Almilia, L. S. (2015). Comparing Internet Financial Reporting
+Practices: Indonesia, Malaysia, Singapore, Japan and
+Australia. International Journal of Business Information
+Systems, 20(4), 477-495.
+[6] Al-Sakarneh, K. (2011) A Study on the Internet Financial Reporting
+Disclosure: A Case of Companies Listed at Amman Stock Exchange,
+Master degree thesis, Universiti Utara Malaysia.
+[7] Aly, D., Simon, J., & Hussainey, K. (2010). Determinants of
+Corporate Internet Reporting: Evidence from Egypt. Managerial
+Auditing Journal, 25(2), 182-202. 
+Mohammed M. Yassin, -Khatib
+22
+[8] Ashbaugh, H., Johnstone, K. M., & Warfield, T. D. (1999). Corporate
+Reporting on the Internet. Accounting horizons, 13(3), 241-257.
+[9] Azam, M., & Taylor, D. (2012). The Impact of Organizational
+Factors on SBR Adoption in Australia. In AFAANZ, 1-29.
+Accounting and Finance Association of Australia and New Zealand.
+[10] Balvers, R. J., Gu, L., & Huang, D. (2017). Profitability, Value, and
+Stock Returns in Production Based Asset Pricing without
+Frictions. Journal of Money, Credit and Banking, 49(7), 1621-1651.
+[11] Beaver, W. H. (1968). The Information Content of Annual Earnings
+Announcements. Journal of Accounting Research, 6(3), 67-92.
+[12] Berglöf, E., & Pajuste, A. (2005). What do Firms Disclose and Why?
+Enforcing Corporate Governance and Transparency in Central and
+Eastern Europe. Oxford Review of Economic Policy, 21(2), 178-197.
+[13] Beyer, A., Cohen, D. A., Lys, T. Z., & Walther, B. R. (2010). The
+Financial Reporting Environment: Review of the Recent
+Literature. Journal of Accounting and Economics, 50(2-3), 296-343.
+[14] Bollerslev, T., Marrone, J., Xu, L., & Zhou, H. (2014). Stock Return
+Predictability and Variance Risk Premia: Statistical Inference and
+International Evidence. Journal of Financial and Quantitative
+Analysis, 49(3), 633-661.
+[15] Boritz, J. E. & No, W. G. (2003) Assurance reporting for XBRL:
+XARL (extensible assurance reporting language), in Roohani, S. (ed.)
+Trust and data assurances in capital markets: the role of technology
+solutions, pp.21-35 [online]
+http://www.xbrleducation.com/oldsite/_Book.pdf#page=21
+(Accessed 14 September 2018).
+[16] Brock, W. A., Lebaron, B. D. (1996). A Dynamic Structural Model
+for Stock Return Volatility and Trading Volume. The Review of
+Economics and Statistics, 78(1), 94-110. 
+Internet Financial Reporting and Expected Stock Return
+23
+[17] Cormier, D., Ledoux, M. J., & Magnan, M. (2009). The Use of Web
+Sites as a Disclosure Platform for Corporate Performance.
+International Journal of Accounting Information Systems, 10(1),
+1-24.
+[18] Dâmaso, G., & Lourenço, I. C. (2011). Internet Financial Reporting:
+Environmental Impact Companies and Other Determinants. In 8th
+International Conference on Enterprise Systems, Accounting and
+Logistics. (8th ICESAL 2011)), 11-12.
+[19] Debreceny, R., & Gray, G. L. (1999). Financial Reporting on The
+Internet and the External Audit. European Accounting Review, 8(2),
+335-350.
+[20] Debreceny, R., Gray, G. L., & Rahman, A. (2002). The Determinants
+of Internet Financial Reporting. Journal of Accounting and Public
+policy, 21(4-5), 371-394.
+[21] Dhaliwal, D. S., Li, O. Z., Tsang, A., & Yang, Y. G. (2011).
+Voluntary Nonfinancial Disclosure and the Cost of Equity Capital:
+the Initiation of Corporate Social Responsibility Reporting. The
+Accounting Review, 86(1), 59-100.
+[22] Dhaliwal, D., Li, O. Z., Tsang, A., & Yang, Y. G. (2014). Corporate
+Social Responsibility Disclosure and the Cost of Equity Capital: the
+Roles of Stakeholder Orientation and Financial ransparency. Journal
+of Accounting and Public Policy, 33(4), 328-355.
+[23] Diamond, D. W., & Verrecchia, R. E. (1991). Disclosure, Liquidity,
+and the Cost of Capital. The journal of Finance, 46(4), 1325-1359.
+[24] Dunne, T., Helliar, C., Lymer, A. and Mousa, R. (2009). XBRL: the
+views of stakeholders, A Research Report. London: The Association
+of Chartered Certified Accountants. ISBN: 978-1-85908-454-0.
+[online]
+http://www.accaglobal.com/content/dam/acca/global/PDF-technical/t
+echnology-publications/rr-111-002.pdf (Accessed: 29 July 2018). 
+Mohammed M. Yassin, -Khatib
+24
+[25] Ettredge, M., Richardson, V. J., & Scholz, S. (2001). The
+Presentation of Financial Information at Corporate Web
+Sites. International Journal of Accounting Information Systems, 2(3),
+149-168.
+[26] Financial Accounting Standards Board. Electronic Distribution of
+Business Reporting Information Working Group, & Molvar, R.
+(2000). BRR: Business Reporting Research Project: Electronic
+Distribution of Business Reporting Information. Financial
+Accounting Standards Board.
+[27] Floros, C. (2009). Modelling Volatility Using High, Low, Open and
+Closing Prices: Evidence from Four S&P Indices. International
+Research Journal of Finance and Economics, 28, 198-206.
+[28] Gray, G. L., & Debreceny, R. (1997). Corporate reporting on the
+internet: opportunities and challenges. In Seventh Asian-Pacific
+Conference on International Accounting Issues.
+[29] Gajewski, J. F., & Li, L. (2015). Can Internet-Based Disclosure
+Reduce Information Asymmetry?. Advances in Accounting, 31(1),
+115-124.
+[30] Green, J., Hand, J. R., & Zhang, X. F. (2013). The Supraview of
+Return Predictive Signals. Review of Accounting Studies, 18(3),
+692-730.
+[31] Guay, W., Samuels, D., & Taylor, D. (2016). Guiding Through the
+Fog: Financial Statement Complexity and Voluntary
+Disclosure. Journal of Accounting and Economics, 62(2-3), 234-269.
+[32] -Section
+of Expected Returns. The Review of Financial Studies, 29(1), 5-68.
+[33] Homayoun, S., & Rahman, R. A. (2010). Determinants of
+Web-Based Corporate Reporting Among Top Public Listed
+Companies in Malaysia. International Journal of Arts and
+Sciences, 3(13), 187-212. 
+Internet Financial Reporting and Expected Stock Return
+25
+[34] CAEW (2004). Digital reporting: A progress report (information for
+better markets). London: Institute of Chartered Accountants in
+England & Wales. [online]
+http://www.icaew.com/~/media/corporate/files/technical/financial%2
+0reporting/information%20for%20better%20markets/ifbm/digital%2
+0reporting%20a%20progress%20report.ashx (accessed on December
+2018).
+[35] Jones, M. J., & Xiao, J. Z. (2003). Internet reporting: Current Trends
+And Trends By 2010. In Accounting Forum, 27(2), 132-165.
+[36] Jordan Securities Commission (2015)
+for Shareholding Companies Listed on the Amman Stock Exchange
+[online]https://www.sdc.com.jo/english/images/stories/pdf/corporate
+_ companies.pdf (accessed on April 2018).
+[37] Khalaf, F. (2018). Attracting International Investors, How Ready Are
+We? Arab Federation of Exchanges, [online]
+http://www.arab-exchanges.org/Studies/Q2-2018-Attracting-Internati
+onal-Investors,-How-Re.aspx, (Accessed on October 2018).
+[38] Karpoff, J. M. (1987). The Relation Between Price Changes and
+Trading Volume: A Survey. Journal of Financial and Quantitative
+Analysis, 22(1), 109-126.
+[39] Kelton, A. S., & Yang, Y. W. (2008). The Impact of Corporate
+Governance on Internet Financial Reporting. Journal of Accounting
+and Public Policy, 27(1), 62-87.
+[40] Kieso, D., Weygandt, J. and Warfield, T. (2011). Intermediate
+Accounting: IFRS Edition. USA: John Wiley and Sons.
+[41] Lai, S., Lin, C., Li, H., Wu, F. (2007). An Empirical Study of the
+Impact of Internet Financial Reporting on Stock Prices. The
+International Journal of Digital Accounting Research, 10, 1-26. 
+Mohammed M. Yassin, -Khatib
+26
+[42] Larrán Jorge, M., & Giner, B. (2002). The Use of The Internet for
+Corporate Reporting by Spanish Companies. The International
+Journal of Digital Accounting Research, 2(1), 53-82.
+[43] Lee, B. S., & Rui, O. M. (2002). The Dynamic Relationship Between
+Stock Returns and Trading Volume: Domestic and Cross-Country
+Evidence. Journal of Banking & Finance, 26(1), 51-78.
+[44] Light, N., Maslov, D., & Rytchkov, O. (2017). Aggregation of
+Information about the Cross Section Of Stock Returns: A Latent
+Variable Approach. The Review of Financial Studies, 30(4),
+1339-1381.
+[45] Lipe, R. (1990). The Relation between Stock Returns and Accounting
+Earnings Given Alternative Information. Accounting Review, 65(1)
+49-71.
+[46] Liu, R., Kong, X., San, Z., & Tsang, A. (2018). Audited Financial
+Reporting and Voluntary Disclosure: International Evidence on
+Management Earnings Forecasts. International Journal of
+Auditing, 22(2), 249-267.
+[47] Lymer, A., & Tallberg, A. (1997). Corporate Reporting and the
+Internet-a Survey and Commentary on the Use of the WWW in
+Corporate Reporting in the UK and Finland. In 20th Annual Congress
+of the European Accounting Association, Graz, Austria, 101-110.
+[48] Lymer, A., Debreceny, R., Gray, G. and Rahman, A. (1999).
+Business reporting on the inte . [online] http://www.iasc.org.uk/.
+(Accessed on April 2018).
+[49] Malkiel, B. G. (2003). The Efficient Market Hypothesis and Its
+Critics. Journal of Economic Perspectives, 17(1), 59-82.
+[50] Malkiel, B. G., & Fama, E. F. (1970). Efficient capital markets: A
+review of theory and empirical work. The journal of Finance, 25(2),
+383-417. 
+Internet Financial Reporting and Expected Stock Return
+27
+[51] Mestel, R., Gurgul, H., & Majdosz, P. (2003). The empirical
+relationship between stock returns, return volatility and trading
+volume on the Austrian stock market. University of Graz, Institute of
+Banking and Finance, Research Paper. [52] Miniaoui, H., & Oyelere, P. (2013). Determinants of Internet
+Financial Reporting Practices: Evidence from the UAE. Review of
+Pacific Basin Financial Markets and Policies, 16(4), 1-25.
+[53] Ojah, K., & Mokoaleli-Mokoteli, T. (2012). Internet Financial
+Reporting, Infrastructures and Corporate Governance: An
+International Analysis. Review of Development Finance, 2(2), 69-83.
+[54] Ou, J. A., & Penman, S. H. (1989). Financial Statement Analysis and
+the Prediction of Stock Returns. Journal of Accounting and
+Economics, 11(4), 295-329.
+[55] Oyelere, P., Laswad, F., & Fisher, R. (2003). Determinants of
+Internet Financial Reporting by New Zealand Companies. Journal of
+International Financial Management & Accounting, 14(1), 26-63.
+[56] Pervan, I. (2006). Voluntary Financial Reporting on the Internet:
+Analysis of the Practice of Stock-Market Listed Croatian and Slovene
+Joint Stock Companies. Financial Theory and Practice, 30(1), 1-27.
+[57] Saadi-Sedik, T., & Petri, M. (2006). The Jordanian Stock Market:
+Should You Invest in It for Risk Diversification or Performance?.,
+1-36.Working Paper.
+[58] Sharma, N. (2013). Web-Based Disclosures and Their Determinants:
+Evidence From Listed Commercial Banks in Nepal. Accounting and
+Finance Research, 2(3), 1-13.
+[59] Subrahmanyam, A. (2010). The Cross Section of Expected Stock
+Returns: What Have We Learnt From The Past Twenty Five Years
+of Research?. European Financial Management, 16(1), 27-42. 
+Mohammed M. Yassin, -Khatib
+28
+[60] Wagenhofer, A. (2007). Economic consequences of internet financial
+reporting. In New Dimensions of Business Reporting and XBRL, 99-123.
+[61] XBRL (2016) Update from Arab Federation of Exchanges, [online]
+https://www.xbrl.org/update-from-arab-federation-of-exchanges/.
+Xiao, Z., Jones, M. J., & Lymer, A. (2002). Immediate Trends in
+Internet Reporting. European Accounting Review, 11(2), 245-275.
+[62] Yap, K. H., Saleh, Z., & Abessi, M. (2011). Internet Financial
+Reporting and Corporate Governance in Malaysia. Australian
+Journal of Basic and Applied Sciences, 5(10), 1273-1289.
+[63] Yassin, M. M. (2017). The Determinants of Internet Financial
+Reporting in Jordan: Financial Versus Corporate
+Governance. International Journal of Business Information
+Systems, 25(4), 526-556.
+[64] Yassin, M. M., Ali, H. Y., & Hamdallah, M. E. (2015). The
+Relationship Between Information Asymmetry and Stock Return in
+the Presence Of Accounting Conservatism. International Journal of
+Business and Management, 10(5), 126.
+[65] Yoon, H., Zo, H., & Ciganek, A. P. (2011). Does XBRL adoption
+Reduce Information Asymmetry?. Journal of Business
+Research, 64(2), 157-163.
+View publication stats

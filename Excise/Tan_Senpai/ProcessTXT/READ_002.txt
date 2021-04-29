@@ -1,0 +1,664 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/330254081
+Effects of Financial Market Variables on Stock Prices: A Review of the
+Literature
+Article · November 2018
+DOI: 10.17265/1548-6583/2018.11.002
+CITATION
+1
+READS
+5,044
+4 authors:
+Some of the authors of this publication are also working on these related projects:
+THE MODERATING EFFECTS OF THE INTERNAL OWNERSHIP ON THE RELATIONSHIP BETWEEN THE EFFECTIVENESS OF BOARD OF DIRECTORS AND EXECUTIVE
+COMPENSATION WITH EARNINGS MANAGEMENT IN THE AMMAN STOCK EXCHANGE View project
+Online Marketing View project
+Fatima Ruhani
+Universiti Malaysia Perlis
+4 PUBLICATIONS   1 CITATION   
+SEE PROFILE
+Md. Aminul Islam
+Universiti Malaysia Perlis
+161 PUBLICATIONS   1,766 CITATIONS   
+SEE PROFILE
+Tunku Salha Tunku Ahmad
+Athlone Institute of Technology
+17 PUBLICATIONS   51 CITATIONS   
+SEE PROFILE
+Muhammad Ruhul Quddus
+University of Dhaka
+3 PUBLICATIONS   1 CITATION   
+SEE PROFILE
+All content following this page was uploaded by Md. Aminul Islam on 21 January 2019.
+The user has requested enhancement of the downloaded file.
+Journal of Modern Accounting and Auditing, November 2018, Vol. 14, No. 11, 597-610
+doi: 10.17265/1548-6583/2018.11.002
+Effects of Financial Market Variables on Stock Prices: A Review
+of the Literature
+Fatima Ruhani, Md. Aminul Islam, Tunku Salha Tunku Ahmad
+University Malaysia Perlis, Perlis, Malaysia
+Muhammad Ruhul Quddus
+Saad Musa Industrial Group, Chittagong, Bangladesh
+Stock market plays a pivotal role in firms’ expansion and turns economic growth. In the literature, because of the
+importance of stock markets to the real economy, the smooth and risk-free operation of the stock market has
+attracted significant attention. The finance literature contains a large number of studies that examine the stock price
+behaviour with some emphasis on the determinants of the relationship between the equity prices and the financial
+market activities. The present study reviews the previous works of the effect of financial market variables and stock
+price. Five selected financial market variables, market capitalization, earnings per share, price earnings multiples,
+dividend yield, and trading volume are reviewed in this study. In the past literature, there are the opinions of the
+positive significant relationship between market capitalization and stock price. To find the relationship between
+dividend yield and stock price, there are two broad schools of thoughts. Both of the relevance and irrelevance
+theory of Gordon and Modigliani have the strong evidence in the current literature that keeps on the dilemma and
+provides the scopes for future research. Price-earnings multiples are analyzed in the past literature by using
+different variables. Based on that, it is evidenced that price-earnings multiples have a negative significant effect on
+stock price. The reviewed studies state the cointegrating relationship between the stock price and the trading
+volume as the trading volume is a source of risk.
+Keywords: market capitalization, dividend yield, Gordon model, Modigliani and Miller model, earnings per share,
+price earnings multiples, trading volume and stock price
+Introduction
+A well-developed financial system is an important pre-requisite for a developed economy. Stock markets
+enable firms to raise capital by issuing shares and also create an environment where those shares can be traded.
+Thus stock market plays a pivotal role in firms’ expansion and turns economic growth. In the literature, because
+of the importance of stock markets to the real economy, the smooth and risk-free operation of the stock market
+has attracted significant attention. In the empirical capital market research literature, there is a long history
+
+Fatima Ruhani, Ph.D., Candidate. School of Business Innovation and Technopreneurship, University Malaysia Perlis, Perlis,
+Malaysia.
+Md. Aminul Islam, Dr., School of Business Innovation and Technopreneurship, University Malaysia Perlis, Perlis, Malaysia.
+Tunku Salha Tunku Ahmad, Dr., School of Business Innovation and Technopreneurship, University Malaysia Perlis, Perlis,
+Malaysia.
+Muhammad Ruhul Quddus, Chief Financial Officer, Saad Musa Industrial Group, Chittagong, Bangladesh.
+D DAVID PUBLISHING
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+598
+about the determinants of stock performance. The literature suggests that different variables are potentially
+important in explaining the variations in stock performance in different economies at different times and
+aspects. Policymakers, however, want to learn about the behaviour of the stock market and, more importantly,
+discover how the behaviour of the stock market is moved in response to the change of different factors. Factors
+that play a significant role in affecting stock price behaviour are from different segments like economic
+variables, financial market variables, variables from behavioural finance, and so on.
+Financial Market Variables and Stock Price
+The finance literature contains a large number of studies that examine the stock price behavior with some
+emphasis on the determinants of the relationship between the equity prices and the financial market activities.
+Followings are the discussion on the related studies of the effect of financial market variables on stock market
+returns.
+Market Capitalization and Stock Price
+A market capitalization calculation is a critical part of any stock valuation process. Market capitalization
+(sometimes called market cap) is the total market value of all the companies’ outstanding shares. This
+represents the value the market has placed on the value of the company’s equity (Ali, 2013).
+Lukács (2002) investigates the relationship between stock return and market capitalization. The analysis is
+based on the returns of 21 stocks listed on the Budapest Stock Exchange (BSE). First, these stocks are ranked
+according to their market capitalization, and then different moments of distribution as well as normalized
+moments such as skewness and kurtosis are calculated. Results are evaluated both by charts and rank
+correlation. A significant relationship is demonstrated between the distribution of returns and the market
+capitalization.
+Ologunde, Elumilade, and Asaolu (2006) examined the relationships between stock market capitalization
+rate and interest rate in Nigeria. They used the Ordinary Least Square (OLS) regression method and they found
+that the prevailing interest rate exerts a positive influence on stock market capitalization rate. Also, they found
+that government development stock rate exerts a negative influence on stock market capitalization rate and
+prevailing interest rate exerts a negative influence on the government development stock rate. Kurihara (2016)
+suggests that stock market capitalization rate is significantly influenced by the macroeconomic environment
+factors such as gross domestic product, exchange rates, interest rates, current account, and money supply.
+Oluwatoyin and Gbadebo (2009) examine the impact of share market capitalization on a company’s
+performance. They adopt the Ordinary Least Square (OLS) analytical technique. Using the company’s annual
+data for 20 years, they recommend that the confectionary company should implement policies that will
+encourage an increase in their profit after tax, dividends, and turnover as these variables have positive and
+statistically strong significance on the changes in the company’s performance and the value of its market
+capitalization. Khrawish, Siam, and Jaradat (2010) examine the effect of interest rates on the stock market
+capitalization rate in the Amman Stock Exchange (ASE) over the period 1999-2008. Based on the multiple
+linear regression model and a simple regression model, the time series analysis revealed that there is a
+significant and positive relationship between government prevailing interest rate (R) and stock market
+capitalization rate. Subeniotis, Papadopoulos, Tampakoudis, and Tampakoudi (2011) studied the relationship
+between the EU-12 stock market price indices and four crucial macroeconomic factors, using panel data 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+599
+analysis. The examined variables are market capitalization, industrial production, the economic sentiment
+indicator and inflation, while the 12 countries are those who have adopted the euro. The empirical results reveal
+a strong effect of the first three factors, while inflation has a negative but not statistically significant coefficient.
+Further, the variables that affect the stock markets positively are market capitalization and the economic
+sentiment indicator. Ali (2013) investigates a group of micro and macro variables and he shows a significant
+positive short and long run and the bi-directional causal relationship between market capitalization and stock
+price. After that, Toraman and Başarir (2014) investigate the long run relationship between stock market
+capitalization rate and interest rate in Turkey over the period 1998-2012. The long-run relationship is tested by
+Johansen Co-integration tests. According to the results of the study, there is a long-run relationship between
+stock market capitalization rate and interest rates.
+Dividend Yield and Stock Price
+The dividend yield of a stock signifies how much a company pays a dividendon its stock price. It is
+calculated as a fraction of annual dividends paid by the company upon its stock price. Dividend yield is
+considered an important variable that is used by Allen and Rachim (1996), Nishat and Irfan (2003), Rashid and
+Rahman (2009), Nazir, Nawaz, and Gilani (2010), Suleman, Asghar, Shah, and Hamid (2011), Hussainey,
+Mgbame, and Chijoke-Mgbame (2011), moreover, it is significantly explaining the effect of dividend policy on
+stock market prices. All these researchers found a positive relation between dividend yield and stock price.
+There are mainly two schools of thoughts available in the field of finance that presented two different
+opinions about the dividend policy. One school of thought followed the opinion of Miller and Modigliani (1961)
+and considered dividend policy irrelevant while the second school of thought followed the point of view of
+Gordon (1963) and considered dividend policy relevant. Since the half-century passed, the question remains i.e.
+whether dividend policy is relevant or not. This dilemma yet exists, which theory the companies should apply
+for making their dividend decisions.
+Irrelevance of Dividend Policy
+Miller and Modigliani (1961) proposed irrelevance theory suggesting that the wealth of the shareholders
+not be affected by dividend policy. It is argued in their theory that the value of the firm is subjected to the
+firm’s earning, which comes from the company’s investment policy. The literature proposed that dividend not
+affect the shareholders’ value in the world without taxes and market imperfections. They argued that dividend
+and capital gain are two main ways that can contribute profits of the firm to shareholders. When a firm chooses
+to distribute its profits as dividends to its shareholders, then the stock price will be reduced automatically by the
+amount of a dividend per share on the ex-dividend date. So, they proposed that in a perfect market, dividend
+policy does not affect the shareholder’s return. There are some voices of researchers supporting the irrelevance
+dividend hypothesis which will be reviewed as follows: Brennan (1971) supported the irrelevancy theory of
+Miller and Modigliani and concluded that any rejection of this theory must be based on the denying of the
+principle of symmetric market rationality and the assumption of independence of irrelevant information. He
+suggested that for rejection of the latter assumption, one of these following conditions must exist: Firstly,
+Investors do not behave rationally. Secondly, the stock price must be subordinate of past events and expected
+prospect. Black and Scholes (1974) created 25 portfolios of common stock in New York Stock Exchange for
+studying the impact of dividend policy on share price from 1936 to 1966. They used the capital asset pricing
+model for testing the association between dividend yield and expected return. Their findings showed no 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+600
+significant association between dividend yield and expected return. They reported that there is no evidence that
+the difference in dividend policies will lead to different stock prices. Their findings were consistent with the
+dividend irrelevance hypothesis.
+Hakansson (1982) supported the irrelevance theory of Miller and Modigliani and claimed that dividends,
+whether informative or not, is irrelevant to firm’s value when investors have homogeneous belief and time
+additive utility and market is fully efficient. Uddin and Chowdhury (2005) selected 137 companies which were
+listed on the Dhaka Stock Exchange (DSE) and studied the relationship between share price and dividend
+payout. The results implied that dividend announcement does not provide value gain for investors and
+shareholders experience approximately 20 % loss of value during 30 days before the announcement of dividend
+to 30 days following the announcement. He suggested that the current dividend yield can reimburse the
+diminished value to some extent. Generally, his findings supported the irrelevancy of dividend policy.
+However, some empirical results of different researches were consistent with irrelevance dividend theory.
+There are many types of research challenging the dividend irrelevance hypothesis. Baker, Farrelly, and
+Edelman (1985) surveyed the 603 Chief Financial Officers (CFOs) of 562 companies which were listed on the
+New York Stock Exchange (NYSE). The results of their survey showed that respondents strongly agreed that
+stock prices would be affected by dividend policy. Baker and Powell (2012) surveyed 603 Chief Financial
+Officers of US companies which were listed on the NYSE. They reported that a majority of respondents (90
+percent) agreed that dividend policy has an impact on the value of the firm and affectsa firm’s cost of capital
+too.
+Ali and Chowdhury (2010) examined stock price reactions of listed Private Commercial Banks (PCBs) in
+Bangladesh surrounding 44 days of the dividend announcement dates. They employed a standard event study
+methodology to analyze the stock price reaction for dividend announcement. Out of 25 listed sample banks in
+the observation period, market-adjusted stock price declines for 11 banks, rises for six banks, and no changes
+for eight banks, and statistical pooled t-test also reveals that stock price reaction to dividend announcement is
+not statistically significant. The findings state that, dividend announcement does not convey any information
+due to the strong contribution of the insider trading as well as some other influencing factors in the capital
+market.
+Misbah et al. (2013) analyzed the stock price volatility by taking non-financial firms listed on Karachi
+Stock Exchange. The study is based on panel data that covers 35 firms from 2001 to 2011. The main variable is
+the dividend yield. The other explanatory variables taken by the study are: size, growth, earning per share, and
+earnings volatility. The research study has concluded that price volatility of stocks has a negative relationship
+with dividend yield and earnings per share. The research has identified a positive relationship between price
+volatility with size and growth in assets of firms. Also, the research has identified that there is no relationship
+between price volatility and earning volatility of firms in Pakistan.
+Uddin and Uddin (2014) showed the dividend scenario of the listed commercial bank of Dhaka Stock
+Exchange (DSE) from the fiscal year 2000 to 2013. They investigated the effect of dividend announcement on
+stock prices based on the 28 DSE listed commercial banks. In this context declaring dividends during the fiscal
+year 2012-2013 has been considered as the observation period and event study methodology has been used. The
+result by using event study methodology indicates that there is no effect of dividend announcement on stock
+prices over the observation periods. 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+601
+The Relevance of Dividend Policy Based on Uncertainty of Future Dividends
+Gordon (1962) suggested a valuation model relating the market value of the stock with dividend policy.
+Gordon studied dividend policy and the market price of the shares and proposed that the dividend policy of
+firms affect the market value of stocks even in the perfect capital market. He stated that investors might prefer
+present dividend instead of future capital gains because the future situation is uncertain even if in the perfect
+capital market. Indeed, he explained that many investors might prefer dividend in hand in order to avoid risk
+related to future capital gain. He also proposed that there is a direct relationship between dividend policy and
+the market value of share even if the internal rate of return and the required rate of return will be the same. In
+Gordon’s (1962) constant growth model, the share price of the firm is subordinate of discounted flow of future
+dividends. Diamond (1967) selected 255 US-based firms as a sample and studied the association of firm’s value
+with dividends and retained earnings in 1961 and 1962. Diamond (1967) reported that there is only weak
+evidence that investors prefer dividends to future capital gain. His findings also showed a negative association
+between the growth of the company and preference of dividend.
+George (2015) investigates the relevance of dividend payments on common stock prices of quoted equities at
+the Nairobi Securities Exchange (NSE) for the period 2008-2012. The result shows that dividends are relevant
+for the average stockholder since most investors prefer cash payments to otherwise reinvested dividends.
+The Relevance of Dividend Policy Based on Information Content of Dividend
+Miller and Modigliani (1961) suggested that in an imperfect market, the dividend may affect the share
+price. So dividend announcements can be interpreted as a signal of the future profitability of the firm. Asquith
+and Mullins Jr. (1983) used a sample of 168 companies paying a dividend for the first time or paying a
+dividend after at least 10-year interruption and studied the relationship between market reaction and dividend
+announcement. They analyzed the daily abnormal stock returns for the 10-day period prior and the 10-day
+period following the dividend announcement. Their findings implied an approximate abnormal return of +3.7
+percent for two days after the announcement. Furthermore, they used a cross-sectional regression and reported
+that the first dividends’ amount has a significant positive impact on the excess returns on the day of the
+dividend announcement. They concluded that the magnitude of changes in dividends could be also important.
+Amihud and Murgia (1997) used 200 German firms as a sample and studied the stock price response to
+dividend announcement for the period of 1988 to 1992. They considered 255 cases of rising/increasein dividend
+and 51 cases of decline in the dividend. Their results reinforced this statement that dividend changes may be a
+signal of the prospect of firms. They presented the abnormal return of +0.965 percent for a dividend increase
+and the abnormal return of -1.73 percent for dividend decrease. Travlos, Trigeorgis, and Vafeas (2001) studied
+the stock price response to the announcement of a stock dividend and a dividend increase in the Cyprus Stock
+Exchange from 1985 to 1995. They considered 41 announcements of cash dividend and 39 events of dividend
+increase. Their results provided strong evidence for supporting the signalling hypothesis. They reported
+prominent excess returns for both cash dividend announcement and cash dividend increase.
+Ahmad and Naz (2015) investigated the relative importance of dividend and retained earnings in share
+price determination to examine the implication of Bird-in-the-Hand theory on Pakistani firms. The analysis
+documents 77 firms from 11 different sectors listed on Karachi Stock Exchange from 2006 to 2013. Firms are
+categorized according to two business stages, growth firms and mature firms. Findings suggest that both
+dividend and retained earnings play a role in share price determination. 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+602
+Impact of Dividend Policy on Firm’s Risk
+Ben-Zion and Shalit (1975) studied the impact of size, leverage, and firm’s dividend records on the risk of
+the common stock. They selected the 1,000 largest US industrial corporations in 1970 as a sample and
+examined the relationship between alternative risk measures with size, leverage, and dividend records. The
+results of their research showed that the firm’s size, leverage, and dividend have a significant relationship with
+the firm’s risk measures and are important determinants of a firm’s risk. They reported that a firm’s risk has a
+significant negative relationship with both dividend yield and size, but leverage has a significant negative
+impact on the firm’s risk. Rozeff (1982) studied the determinants of dividend payout ratios. He suggested that
+beta, agency cost and growth determine the optimal dividend payout. He argued that higher beta coefficients
+are related to lower dividends payout showing that there is a negative association between a firm’s risk and
+dividend payout. He explained that since firms with high beta may have higher external financing cost, they are
+more likely to choose a lower dividend payout policy. Eades (1982) studied the relationship between dividend
+yield and the firm’s risk in the US stock market. He regressed the dividend yield against firm’s beta. The results
+of his study discovered a significant negative relationship between dividend yield and the firm’s beta showing
+that riskier firms may have a lower dividend paid.
+Another study conducted by Ho (2002) relevant to the dividend policy in which he uses the panel data
+approach and fixed effect regression model. Results of his study show the positive relationship between
+dividend policy and size of Australian firm and liquidity of Japanese firms. He found the negative relation
+between dividend policy and risk in case of only Japanese firms. The overall industrial effect of Australia and
+Japan is found to be significant.
+Impact of Dividend Policy on Share Price Volatility
+Baskin (1989) used a different method and examined the association between dividend policy and stock
+price volatility rather than returns. He added some control variables for examining the association between
+share price volatility and dividend yield. These control variables are earning volatility, firm’s size, debt, and
+growth. These control variables do not only have a clear effect on stock price volatility but they also affect
+dividend yield. Nazir et al. (2010) used 73 firms listed in Karachi Stock Exchange (KSE) as a sample and
+studied the relationship between share price volatility and dividend policy for the period of 2003 to 2008. They
+applied the fixed effect and random effect models on panel data. They reported that share price volatility has a
+significant negative association with dividend yield and dividend payout. They also reported that size and
+leverage have a non-significant negative effect on share price volatility. Suleman et al. (2011) studied the
+association of dividend policy with share price volatility in Pakistan. They extracted data from Karachi Stock
+Exchange regarding five important sectors for the period of 2005 to 2009. They used multiple regressions
+model for their analysis. Contrary to Baskin’s (1989) results, their findings showed that share price volatility
+has a significant positive relationship with dividend yield. They also reported that share price volatility has a
+significant negative relationship with growth.
+Hussainey et al. (2011) examined the relationship between share price volatility and dividend policy in the
+UK. They selected 123 English companies and the period of their study was from 1998 to 2007. They used
+multiple regression analyses for exploring the relationship of share price with dividend yield and dividend
+payout ratio. They added size, level of debt, earning volatility, and level of growth as control variables to their
+model. Consistent to Allen and Rachim (1996) Australia results, Hussainey et al. (2011) found a significant 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+603
+negative relationship between share price volatility and payout ratio. They also found a negative relationship
+between share price volatility and dividend yield. Their findings discovered that the payout ratio is the
+predominant determinant of the share price volatility and size and debt have the strongest relationship with
+price volatility amongst control variables.
+Hashemijoo, Ardekani, and Younesi (2012) studied the relationship between dividend policy and share
+price volatility with a focus on consumer product companies listed in the Malaysian stock market. For this
+purpose, a sample of 84 companies from 142 consumer product companies listed in the main market of Bursa
+Malaysia were selected and the relationship between share price volatility with two main measurements of
+dividend policy, dividend yield and payout, was examined by applying multiple regression for a period of six
+years from 2005 to 2010. The primarily regression model was expanded by adding control variables including
+size, earnings volatility, leverage, debt, and growth. The empirical results of the study showed a significant
+negative relationship between share price volatility with two main measurements of dividend policy which are
+dividend yield and dividend payout. Moreover, a significant negative relationship between share price volatility
+and size is found. Based on the findings of the study, dividend yield and size have the most impact on share
+price volatility amongst predictor variables.
+Earnings per Share and Stock Price Behavior
+The revenue earned by a company after meeting the cost of production, then interest, depreciation, and tax
+belong to the equity shareholders. These earnings divided by the number of outstanding equity shares is
+referred to as Earnings per Share (EPS) (Nichols & Wahlen, 2004; Bhatt & Sumangala, 2012). Basu (1977) in
+the earnings multiplier model (P/E) argued that earnings are the most important factor that determines the
+financial health and real value of a company. Investors make decisions depending on public information like
+earnings which are taken as indicators of a company’s financial health and prospects and thus determining the
+share price (Al-Malkawi, 2007).
+It is suggested from empirical studies that earnings per share are one of the strongest factors affecting the
+share price (Sharma, 2011). The pioneers of the studies on determinants of share price were Collins (1957).
+Both of them in their independent studies identified earnings as one of the factors influencing share prices.
+They showed that there is a positive relationship between share price and both earnings and dividends. After
+that, Ball and Brown (1968) and Baskin (1989) argued that the earnings per share havea constructive
+relationship with market value. Kaundal and Sharma (1986) described the effect of earnings per share on the
+market value of shares by using a linear regression model. Malhotra (1987) concluded that the earnings per
+share had a constructive and significant wave on the market value of equity shares. His targeted population was
+the four sectors of industries general engineering, cotton textile, food products and paper convening a period of
+four years from 1982 to 1985. Baskin (1989) and Collins and Kothari (1989) linked to stock price with earning
+per share and all of them confirm the positive link. Ohlson (1995) discusses the role of earning, book value, and
+dividends in equity valuation. Collins, Pincus, and Xie (1999) discussed the effect of negative earning on equity
+valuation. Dechow, Hutton, and Sloan (1999) studies the effect of residual income and the equity valuation.
+Zhao (2000) studies the relationship between stock prices and firm EPS using a regression model. He
+found that firm EPS has an important impact on stock prices, especially on long horizons, but the hypothesis
+that moves one-for-one with ex-ante is rejected. Harasty and Roulet (2000) work on 17 developed countries and
+show that stock prices are co-integrated with firm EPS. Tuli and Mittal (2001) indicated that earnings per share 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+604
+were found to be important in determining the share price. In broader perspective Nieh and Lee (2002) use
+three-year rolling regressions to analyze the relationship between stock prices and firm EPS. They try to
+forecast stock prices on the standard and poor 500 indexes with the short term firm EPS, but find that the
+relationship is not stable over time. It gradually changes from a significantly negative to no relationship than to
+positive; although insignificant relationship. Malakar and Gupta (2002) exposed that Earnings per share is
+found to be a significant determinant of share value by considering share value of eight major cement
+companies in India for the period 1968 to 1988 and five variables, namely, dividend per share, retained
+earnings, earnings per share, the share price, and sales proceeds. Hsing (2014) uses a structural Vector
+Autoregressive (VAR) model for the simultaneous determination of firm fundamental and finds that there is an
+inverse relationship between stock prices and firm EPS. Al-Deehani (2005) examined the determinants of share
+price for companies listed on the Kuwait Stock Exchange. The empirical findings showed that the variables;
+earnings per share, cash dividends per share, return on equity, price to book value ratio and cash flow per share
+are all highly correlated with the share price.
+Zarezadeh et al. (2011) showed in their study that there is a positive and significant relationship between
+Earnings per Share (EPS) and the stock price of the company. Sharma (2011) in his study concluded that
+earnings per share are the strongest determinant of the market value in a constructive track. Recently, Bhatt and
+Sumangala (2012) described the earning per share effect on the equity market value of share with the
+publication of basic contributions concerningthe top 50 Indian companies. They found that EPS impacts the
+market value of an equity share in the Indian context. In contrary of previous research, Ali (2013) suggests that
+earnings per share have aninsignificant relationship with a stock price both in the short run and long run. Also
+no causal relationship has been found between them. Having consistency with Ali (2013), Umar and Musa
+(2013) examine the relationship between stock prices and firm EPS from 2005 to 2009. A simple linear
+regression model was employed on a panel of 140 Nigerian firms from a total population of 216 firms’ operated
+in Nigerian Stock Exchange (NSE). It was discovered that an insignificant relationship exists between stock
+prices and firm EPS in Nigeria. Firm EPS has no predictive power on stock prices. It was suggested that firm
+EPS should not be relied upon for the prediction of the behaviour of stock prices in Nigeria.
+Jatoi, Shabir, Hamad, Iqbal, and Muhammad (2014) investigate the effect of Earnings per Share (EPS) on
+the Market Value of Share (MVS) and their mutual relationship. The targeted population was the Pakistani
+cement industries that were listed in the Stock Exchange Commission of Pakistan (SECP). The 13 cement
+industries were selected for the analysis and secondary data were used for this purpose. The finding shows that
+EPS significantly impacts the Market Value of Share. Velnampy and Pratheepkanth (2017) take up the sample
+of EPS changes from Milanka companies in the Colombo Stock Exchange (CSE) firms in Sri Lanka from 2006
+to 2010. In his study, more than 70% of Milanka companies have a positive relationship between earnings per
+share and share price movements. In this analysis, 44% of the share price of Milanka companies is determined
+by other factors without the EPS. Overall, this provides evidence that the Milanka companies consider the
+earnings per share of other companies, in order to keep the company image and customer satisfaction.
+Price Earnings Multiples and Stock Market Return
+The Price to Earnings (P/E) ratio is still the most widely used valuation tool in the stock markets. Analysts
+use it pricing new shares in initial public offerings. The P/E ratio is also used as a measure of relative value
+when comparing listed companies. The company is having a higher P/E ratio than a rival in the same area of 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+605
+business which usually means bad value for the investor. Prospective P/E ratios build in average expectations
+about future growth prospects. A high P/E ratio typically indicates that the market as a whole expects
+significant future earnings growth (Gottwald, 2012).
+Basu (1977) in the earnings multiplier model (P/E) argued that earnings are the most important factor that
+determines the financial health and real value of a company. Investors make decisions depending on public
+information like earnings which are taken as indicators of a company’s financial health and prospects and thus
+determining the share price (Al-Malkawi, 2007). Knowledge of the impact of earnings on share prices is highly
+appreciable as it would help in determining price volatility and in the prediction of price movement to enable
+firms to enhance their market value and investors to maximize their wealth (Zarezadeh et al., 2011).
+The empirical results of the research of Zarezadeh et al. (2011) indicate that there is a negative and
+significant relationship between Dividends per Share (DPS) and Price to Earnings ratio (P/E). Ndinyo (2011)
+studied the effect of P/E ratio on the performance of common stocks at the NSE. Results showed that high P/E
+portfolios seem to have earned higher rates of return as compared to the average stock. Low P/E portfolios
+earned less return than the average stock.
+Recently, Ali (2013) studied the relationship of price-earnings multiples and stock prices. He found a
+significant negative relationship in the short run, but in the long run, it is negative, insignificant. Unidirectional
+causality has been found between price-earnings multiples and stock price. P/E increases when investors are
+willing to pay more per unit of earnings while the earnings remain stable. P/E also grows when both the stock
+price and the earnings per share increase, however, the increase of stock price must be sharper than the increase
+in the earnings per share. Another scenario of increasing P/E takes place, when stock price remains stable
+despite there is a decrease in the earnings per share. The price-earnings ratio does not change when there is a
+balance between the growth of the stock price and the earnings per share. On the contrary, P/E declines when
+the willingness of investors to pay the price per unit falls as well as when the price paid per stock by investors’
+increases in a slower pace than the earnings per shares (Ali, 2013). This research assumes that price-earnings
+multiples have a negative influence over stock market return.
+Trading Volume and Stock Market Return
+The concept of the volume impact is built on the fact that prices need volume to move, thus, the high
+volatility of stock prices may be produced as a consequence of volume volatility and trading activities (Sabri,
+2009). Various studies reported that there are significant relationships between volume and stock price
+movement and volatility, because trading volume is a source of risk because of the flow of information. Blume,
+Mackinlay, and Terker (1989) stated that a portion of the losses on S & P stocks in October, 1987 was related
+to the magnitude of the trading volume. However, the positive volatility-volume relation is documented by
+Jones, Gautam, and Lipson (1994). Basci, Ozyildinm, and Aydogan (1996) reported that stock price levels and
+trading volume in Turkish stock markets are co-integrated. Saatccioglu and Starks (1998) found that volume
+leads tostock prices changes in four out of the six emerging markets.
+Chan, Hameed, and Tong (2000) found that trading volume for foreign stocks is strongly associated with
+NYSE opening price volatility. Säfvenblad (2000) found that Swedish index returns exhibit high
+autocorrelation when trading volume is low. Hsin, Guo, Tseng, and Luo (2003) examined the empirical
+evidence on the impact of speculative trading on return volatilities in Taiwan stock markets and found
+speculative trading activities through day trades, which increases the intraday price volatility. Song, Tan, and 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+606
+Yunfeng (2005) examined the roles of the number of trades, size of trades, and share volume in the
+volatility-volume relation in the Shanghai Stock Exchange and confirmed that mainly the number of trades
+drives the volatility volume relation. Henry and McKenzie (2006) examined the relationship between volume
+and volatility allowing for the impact of short sales in Hong-Kong market and found that the asymmetric
+bidirectional relationship exists between volatility and volume. Griffin, Nardari and Stulz (2007) investigated
+the dynamic relation between market-wide trading activity and returns in 46 markets and reported the strong
+positive relationship between turnover and past returns. Sabri (2009) examined the price-volume movements in
+the Arab Stock Markets, in order to determine the impact of changes in trade volume on the volatility of stock
+prices as expressed by the unified stock price index. The research covers a sample of eight out of the 15 Arab
+Stock Markets included in the Arab Monetary Fund database, using monthly data from 1994 to 2006. The study
+found that there is an increase in both trading volume and stock price volatility, which may be considered as a
+recent phenomenon in the majority of the Arab Stock Markets. The study also found that the volume-stock
+price movements are significantly integrated for all selected markets, while the highest correlation coefficient
+between volume and stock price movement was found in Saudi Stock Market, Amman Stock Market, Muscat
+Stock Market, and Kuwait Stock Market respectively. Finally, the correlation between volume and prices
+movement is higher in the stock markets of the oil Arab states compared to the non-oil Arab states.
+Mutalib (2011) investigated the dynamics of the relationship between trading volume and returns of the
+Nigerian capital market. The study employed Granger causality tests to examine dynamic (causal)
+return-volume relation using daily stock data of 27 equities listed on the floor of Nigerian Stock Exchange for
+the period January 2009 to December 2010. The empirical results indicated, in general, a mild causal relation
+between stock returns and trading volumes for individual assets but on the overall, weak evidence of a dynamic
+(causal) relation running from trading volume to market return was found. Aggarwal and Mougoue (2011)
+report an insignificant contemporaneous correlation between return volatility and trading volume.
+Pathirawasam (2011) conducted a study to examine the relationship between trading volume and stock returns.
+The sample of the study consisted of 266 stocks traded at the Colombo Stock Exchange (CSE) from February
+2000 to December 2008. The study revealed that stock returns are positively related to the contemporary
+change in trading volume. Tripathy (2011) conducted a study to investigate the dynamic relationship between
+stock return and trading volume of Indian stock market by using Bivariate Regression model, Vector Auto
+Correction Model (VECM), VAR and Johansen’s Cointegration test. The study showed that there is
+bi-directional causality between trading volume and stock return volatility.
+Choi, Jiang, Kang, and Yoon (2012) give evidence of a strong relationship (contemporaneous as well as
+dynamic) between return and volume. Attari, Rafiq, and Awan (2012) carried out a study to measure the
+relationship between trading volume and returns; and a change in trading volume and returns of stocks in
+Pakistan. The study applied various techniques such as Unit root tests and Generalized Autoregressive
+Conditional Heteroskedasticity (GARCH) on the data to determine the relationship between the variables above.
+The GARCH results indicated a significant positive relationship between trading volume and returns, indicating
+that rising market goes with rising volume and vice versa. Gworo (2013) examined the price-volume
+movements in the NSE and implied a weak correlation between the variables. Gebka (2012) investigated the
+dynamic relationship between index returns, return volatility, and trading volume for eight Asian markets and
+the US. The study revealed that trading volume, especially on the Asian markets, depended on shocks in
+domestic and foreign returns as well as on volatility, especially those shocks originating in the US. 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+607
+Celik (2013) tested the relationship between trading volume and return in Istanbul Stock Exchange (ISE)
+by using intraday ISE-30 index data and trading volume as a proxy for information arrival for the period
+between 04.02.2005 to 30.04.2010. The results indicated a positive relationship between information arrival
+and volatility. Achieng (2013) carried out a similar study and the results indicated that major variations of stock
+prices and trading volume were explained by other factors as opposed to the relationship between the two
+variables. Kamuti (2013) found that there was a significant positive relationship between price and volume. Ali
+(2013) found that trading volume has an insignificant positive relationship with the stock price but in the long
+run, it is a significant positive. Furthermore, unidirectional causality has been found between trading volume
+and stock price. Gebka and Wohar (2013) analyzed the causality between past trading volume and index returns
+in the Pacific Basin countries. Their OLS results indicate no causal link between trading volume and returns.
+Heryan (2014) also founded an insignificant relationship between trading volume and stock prices
+volatility. Heryán (2014) examines whether the prices volatility of selected world financial companies’ shares
+differs within both samples, below its average trading volume and the above. The study estimated GARCH-M
+models from daily data from 13 selected financial companies within after crisis period from 2010 to 2013. It
+was not founded any strong significant relationship between trading volume and stock prices volatility.
+Conclusion and Discussion
+The factors that influence share prices could either be internal factors, such as earnings, dividend, book
+value or external factors such as interest rate, government regulations, foreign exchange rate. Several such
+factors have been identified by previous empirical research. The pioneering works on share price determinants
+identified dividend, net profit, operating earnings, and book value as the factors influencing share prices.
+Following these works, there have been various attempts to identify the determinants of share prices for
+different markets. To present a bunch of factors is identified that play the significant role in stock price. To
+ensure the sound operation and continued growth of the capital market of a country, more studies are needed in
+this regards to finding the key determinants of stock price and the role played by them.
+References
+Achieng, O. G. (2013). The relationship between trading volume and stock prices of firms quoted at the Nairobi securities
+exchange (Unpublished MBA Research Project, University of Nairobi, Kenya).
+Aggarwal, R., & Mougou, E. M. (2011). Trading volume and exchange rate volatility: Evidence for the sequential arrival of
+information hypothesis. Journal of Banking and Finance, 35(10), 2690-2703.
+Ahmad, N., & Naz, S. (2015). Impact of dividend and retained earnings decision on stock prices: A comparative study of growth
+and mature firms listed in Pakistan. Sci. Int. (Lahore), 27(6), 6353-6359.
+Al-Deehani, T. M. (2005). Determinants of dividend policy: The case of Kuwait. The Arab Journal of Economic and
+Administrative Sciences, 19(2), 59-76.
+Al-Malkawi, H. N. (2007). Determinants of corporate dividend policy in Jordan: An application of the Tobit model. Journal of
+Applied Accounting Research, 23, 44-70.
+Ali, B. (2013). The impact of selected micro and macroeconomic variables on the stock prices of emerging stock market: A case
+of Dhaka Stock Exchange (DSE). Interdisciplinary Journal of Research in Business, 1, 08-16.
+Ali, M. B., & Chowdhury, T. A. (2010). Effect of dividend on stock price in emerging stock market: A study on the listed private
+commercial banks in DSE. International Journal of Economics and Finance, 2(4), 52-64.
+Allen, D. E., & Rachim, V. S. (1996). Dividend policy and stock price volatility: Australian evidence. Applied Financial
+Economics, 6(2), 175-188.
+Amihud, Y., & Murgia, M. (1997). Dividends, taxes, and signalling: Evidence from Germany. Journal of Finance, 52, 397-408. 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+608
+Asquith, P., & Mullins, D. (1983). The impact of initiating dividend payments on shareholder wealth. Journal of Business, 56,
+77-96.
+Attari, M. I. J., Rafiq, S., & Awan, H. M. (2012). The dynamic relationship between stock volatility and trading volume. Asian
+Economic and Financial Review, 2(8), 1085-1097.
+Baker, H. K., & Powell, G. E. (2012). Dividend policy in Indonesia: Survey evidence from executives. Journal of Asia Business
+Studies, 6(1), 79-92.
+Baker, H. K., Farrelly, G. E., & Edelman, R. B. (1985). A survey of management views on dividend policy. Financial
+Management, 14(3), 78-84
+Ball, R., & Brown, P. (1968). An empirical evaluation of accounting income numbers. Journal of Accounting Research, 6(2),
+159-178.
+Basci, E., Ozyildinm, S., & Aydogan, K. (1996). A note on price-volume dynamics in an emerging stock market. Journal of
+Banking & Finance, 20, 389-400.
+Baskin, J. (1989). Dividend policy and the volatility of common stocks. The Journal of Portfolio Management, 15(3), 19-25.
+Basu, S. (1977). Investment performance of common stocks in relation to their price-earnings ratios: A test of the efficient market
+hypothesis. The Journal of Finance, 32(3), 663-682. Retrieved from https://doi.org/10.1111/j.1540-6261.1977.tb01979.x
+Ben-Zion, U., & Shalit, S. S. (1975). Size, leverage, and dividend record as determinants of equity risk. The Journal of Finance,
+30(4), 1015-1026.
+Bhatt, P., & Sumangala, J. K. (2012). Impact of earnings per share on market value of an equity share: An empirical study in
+Indian capital market. Journal of Finance, Accounting & Management, 3(2), 1-14.
+Black, F., & Scholes, M. S. (1974). The effect of dividend yield and dividend policy on common stock prices and return. Journal
+of Financial Economics, 1(1), 1-22.
+Blume, M. E., Mackinlay, A. C., & Terker, B. (1989). Order imbalances and stock movements on October 19 and 20, 1987.
+Journal of Finance, 44, 827-848.
+Brennan, M. (1971). A note on dividend irrelevance and the Gordon valuation model. The Journal of Finance, 26(5), 1115-1121.
+Celik, S. (2013). New evidence on the relation between trading volume and volatility. Business and Economic Research, 3(1),
+176-186.
+Chan, K., Hameed, A., & Tong, W. (2000). Profitability of momentum strategies in the international equity markets. Journal of
+Financial and Quantitative Analysis, 35, 153-172.
+Choi, K. H., Jiang, Z. H., Kang, S. H., & Yoon, S. M. (2012). Relationship between trading volume and asymmetric volatility in
+the Korean stock market. Modern Economy, 3, 584-589.
+Collins, D., & Kothari, S., (1989). An analysis of the cross-sectional and intertemporal determinants of earnings response
+coefficients. Journal of Accounting and Economics, 11, 143-181.
+Collins, D., Pincus, M., & Xie, H. (1999). Equity valuation and negative earnings: The role of book value of equity. The
+Accounting Review, 74(1), 29-61.
+Collins, J. (1957). How to study the behavior of bank stocks. The Analysts Journal, 13(2), 109-113.
+Dechow, P. M., Hutton, A. P., & Sloan, R. G. (1999). An empirical assessment of the residual income valuation model. Journal of
+Accounting and Economics, 26(1), 1-34.
+Diamond, J. J. (1967). Earnings distribution and the valuation of shares: Some recent evidence. Journal of Financial and
+Quantitative Analysis, 2, 15-30.
+Eades, K. M. (1982). Empirical evidence on dividends as a signal of firm value. Journal of Financial and Quantitative Analysis,
+17, 471-500.
+Gebka, B. (2012). The dynamic relation between returns, trading volume and volatility: Lessons from spillovers between Asia and
+the United States. Bulletin of Economic Research, 64(1), 65-90.
+Gebka, B., & Wohar, M. E. (2013). Causality between trading volume and returns: Evidence from quantile regressions.
+International Review of Economics & Finance, 27, 144-159
+George Omwansa, M. (2015). The influence of dividends policy on market share prices at the Nairobi Securities Exchange. Asian
+Research Journal of Business Management, 24(1), 1-19.
+Gordon, M. J. (1962). The savings, investment and valuation of the corporation. Review of Economics and Statistics, 45, 37-51.
+Gordon, M. J. (1963). Optimum investment and financing policy. Journal of Finance, 18, 264-272.
+Gottwald, R. (2012). The use of the P/E ratio to stock valuation. European Grant Projects, Results, Research and Development,
+and Science, 31(2000), 21-24. 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+609
+Griffin, M., Nardari, F., & Stulz, R. M. (2007). Do investors trade more when stocks have performed well? Evidence from 46
+countries. Review of Financial Studies, 20(3), 905-951.
+Gworo, C. O. (2013). The relationship between trading volume and price volatility of shares in the Nairobi Securities Exchange
+(Unpublished MBA Research Project, University of Nairobi, Kenya).
+Hakansson, N. H. (1982). To pay or not to pay dividend. The Journal of Finance, 37(2), 415-428.
+Harasty, H., & Roulet, J. (2000). Modeling stock market returns. Journal of Portfolio Management, 26(2), 33.
+Hashemijoo, M., Mahdavi Ardekani, A., & Younesi, N. (2012). The impact of dividend policy on share price volatility in the
+Malaysian stock market. Journal of Business Studies Quarterly, 4(10), 111-129. Retrieved from
+http://ezproxy.lib.monash.edu.au/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=91711854&sit
+e=ehost-live&scope=site
+Henry, O. T., & McKenzie, M. (2006). The impact of short selling on the price volume relationship: Evidence from Hong Kong.
+Journal of Business, 79, 671-691.
+Heryán, T. (2014). Stock prices volatility and trading volume: Evidence from selected world financial companies’ shares.
+Proceedings of the 14th International Conference on Finance and Banking, c, 117-125. Retrieved from
+http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLin
+kType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000345575000013&KeyUID=WOS:000345575000013
+Ho, H. (2002). Dividend policies in Australia and Japan. International Advances in Economics, 2(9), 91-100.
+Hsin, C.-W., Guo, W.-C., Tseng, S.-S., & Luo, W.-C. (2003). The impact of speculative trading on stock return volatility: The
+evidence from Taiwan. Global Finance Journal, 14(3), 243-270.
+Hsing, Y. (2014). Impacts of macroeconomic factors on the stock market in Estonia. Journal of Economics and Development
+Studies, 2(2), 23-31.
+Hussainey, K., Mgbame, C. O., & Chijoke-Mgbame, A. M. (2011). Dividend policy and share price volatility: UK evidence.
+Journal of Risk Finance, 12(1), 57-68.
+Jatoi, M. Z., Shabir, G., Hamad, N., Iqbal, N., & Muhammad, K. (2014). A regressional impact of earning per share on market
+value of share: A case study cement industry of Pakistan. International Journal of Academic Research in Accounting,
+Finance and Management Sciences, 4(4), 221-227. Retrieved from http://doi.org/10.6007/IJARAFMS/v4-i4/1323
+Jones, C. M., Kaul, G., & Lipson, M. L. (1994). Transactions, volume, and volatility. Review of Financial Studies, 7(4), 641-651.
+Kamuti, H. M. (2013). The dynamic relationship between stock price volatility and trading volume at the Nairobi Securities
+Exchange (Unpublished MBA Research Project, University of Nairobi, Kenya).
+Khrawish, H. A., Siam, W. Z., & Jaradat, M. (2010). The relationships between stock market capitalization rate and interest rate:
+Evidence from Jordan. Exchange Organizational Behavior Teaching Journal, 2(2), 60-66.
+Kaundal, R. K., & Sharma, S. (1986). Stock market integration examining linkages between India and selected Asian markets.
+Foreign Trade Review, 45, 3-18.
+Kurihara, Y. (2016). Stock prices, foreign exchange reserves, and interest rates in emerging and developing economies in Asia.
+International Journal of Business and Social Science, 7(9), 10-15.
+Lukács, P. (2002). Stock return distribution and market capitalisation. Hungarian Statistical Review, (7), 138-148.
+Malakar, B., & Gupta, R. (2002). Determinants of share price—A system approach: Modified model. Finance India, 16(4),
+1409-1418.
+Malhotra, V. (1987). Determinants & equity prices in India. Shimla: Himachal University.
+Miller, M. H., & Modigliani, F. (1961). Dividend policy, growth and the valuation of shares. The Journal of Business, 34(4),
+411-433.
+Misbah, S., Ahmad, S., Muhammad, J. A., Muhammad, S., Sayyad, U.-A., & Khan, S.-U.-R. (2013). Stock price volatility in
+relation to dividend policy; A case study of Karachi stock market. Middle East Journal of Business, 13(3), 426-431.
+Retrieved from http://doi.org/10.5829/idosi.mejsr.2013.13.3.1752
+Mutalib, A. (2011). Trading volume and stock return dynamics: The Nigerian evidence. Working Paper. Social Science Research
+Network.
+Nazir, M. S., Nawaz, M. M., & Gilani, U. J. (2010). Relationship between economic growth and stock market development.
+African Journal of Business Management, 4(16), 3473-3479.
+Ndinyo, S. (2011). Relationship between price-earnings ratio and investment performance of common stocks at the Nairobi Stock
+Exchange (Unpublished MBA Report, University of Nairobi). 
+EFFECTS OF FINANCIAL MARKET VARIABLES ON STOCK PRICES
+   
+610
+Nichols, D. C., & Wahlen J. M. (2004). How do earnings numbers relate to stock returns? A review of classic accounting research
+with updated evidence. Accounting Horizons, 18(4), 263-286.
+Nieh, C. C., & Lee, C. F. (2001). Dynamic relationship between stock returns and exchange rates for G7 countries. The Quarterly
+Review of Economics and Finance, 41(4), 477-490. Retrieved April 29, 2008, from Business Source Premier Database.
+Nishat, M., & Irfan, C. M. (2003). Dividend policy and stock price volatility in Pakistan. 11th Pacific Basin Finance, Economics
+and Accounting Conference.
+Ohlson, J. A. (1995). Earnings, book values and dividends in equity valuation. Contemporary Accounting Research, 11(2),
+661-687. Retrieved from http://dx.doi.org/10.1111/j.1911-3846.1995.tb00461.x
+Ologunde, A. O., Elumilade, D. O., & Asaolu, T. O. (2006). Stock market capitalization and interest rate in Nigeria: A time series
+analysis. International Research Journal of Finance and Economics, 4, 154-166.
+Oluwatoyin, M., & Gbadebo, O. O. (2009). The impact of share market capitalization on a company’s performance? A case study
+in the Nigerian confectionary industry. African Journal of Business Management, 3(May), 220-226.
+Pathirawasam, C. (2011). The relationship between trading volume and stock returns. Journal of Competitiveness, 3, 41-49.
+Rashid, A., & Rahman, A. Z. (2009). Dividend policy and stock price volatility: Evidence from Bangladesh. Journal of Applied
+Business and Economics, 8(4), 71-81.
+Rozeff, M. S. (1982), Growth, beta and agency costs as determinants of dividend payout ratios. Journal of Financial Research, 5,
+249-259.
+Saatccioglu, K., & Starks, L. T. (1998). The stock price-volume relationship in emerging stock markets: The case of Latin
+America. International Journal of Forecasting, 14, 215-225.
+Sabri, N. R. (2009). The impact of trading volume on stock price volatility in the Arab economy. Journal of Derivatives & Hedge
+Funds, 14(3-4), 285-298. Retrieved from http://doi.org/10.1057/jdhf.2008.22
+Sharma, S. (2011). Determinants of equity share prices in India. Journal of Arts, Science & Commerce, 2(4), 51-60.
+Song, F. (F. M.), Tan, H., & Wu, Y. F. (2005). Trade size, trade frequency, and the volatility-volume relation. The Journal of Risk
+Finance, 6(5), 424-437.
+Subeniotis, D. N., Papadopoulos, D. L., Tampakoudis, I. A., & Tampakoudi, A. (2011). How inflation, market capitalization,
+industrial production and the economic sentiment indicator affect the EU-12 stock markets. European Research Studies
+Journal, 14(1), 103-117.
+Suleman, M., Asghar, M., Ali Shah, S., & Hamid, K. (2011). Impact of dividend policy on stock price risk: Empirical evidence
+from equity market of Pakistan. Far East Journal of Psychology and Business, 4(1), 45-52.
+Säfvenblad, P. (2000). Trading volume and autocorrelation: Empirical evidence from the Stockholm Stock Exchange. Journal of
+Banking and Finance, 24(8), 1275-1287.
+Toraman, C., & Basarir, Ç. (2014). The long run relationship between stock market capitalization rate and interest rate:
+Co-integration approach. Procedia-Social and Behavioral Sciences, 143, 1070-1073. Retrieved from
+http://Doi.Org/10.1016/J.Sbspro.2014.07.557
+Travlos, N., Trigeorgis, L., & Vafeas, N. (2001). Shareholder wealth effects of dividend policy changes in an emerging stock
+market: The case of Cyprus. Multinational Finance Journal, 5(2), 87-112.
+Tripathy, N. (2011). The relation between price changes and trading volume: A study in Indian Stock Exchange. Interdisciplinary
+Journal of Research in Business, 51(2), 485-505.
+Tuli, N., & Mittal, R. K. (2001). Determinants of price-earnings ratio. Finance India, 15(4), 1235-1250.
+Uddin, M. H., & Chowdhury, G. M. (2005). Effect of dividend announcement on shareholders’ value: Evidence from Dhaka
+Stock Exchange. Journal of Business Research, 1, 4-13.
+Uddin, M. N., & Uddin, M. J. (2014). Dividend announcement of the commercial banks in DSE: Scenario and effect on stock
+price. International Journal of Ethics in Social Sciences, 2(1), 1-13.
+Umar, M. S., & Musa, T. B. (2013). Stock prices and firm earning per share in Nigeria. Journal of Chemical Information and
+Modeling, 53(9), 1689-1699. Retrieved from https://doi.org/10.1017/cbo9781107415324.004
+Velnampy, T., & Pratheepkanth, P. (2017). Earning per share (EPS) and its impact on share price in Milanka companies in
+Colombo Stock Exchange (CSE), Sri Lanka. International Journal of Education and Research, 3(10), 23.
+Zarezadeh, E., Mirfakhr-Al-Dini, S. H., Dehavi, H. D., Armesh, H., Manafi, M., & Zraezadehand, S. (2011). Fitting the
+relationship between financial variables and stock price through fuzzy regression case study: Iran Khodro Company.
+International Journal of Business and Social Science, 2(11), 140-180.
+Zhao, X. Q. (2000). Stock prices, inflation and output: Evidence from China. Applied Economic Letters, 6, 509-511.
+View publication stats
