@@ -193,10 +193,6 @@
         <remotetype><![CDATA[COVID-19]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
         <radius><![CDATA[25]]></radius>
-        <cpc>10</cpc>
-        <Price>20</Price>
-        <Cost>30</Cost>
-        <CPC>40</CPC>
         <price>50</price>
     </job>
 </source>
