@@ -4,7 +4,7 @@
     <publisherurl>insert gotoro app url for feed here</publisherurl>
     <lastBuildDate>Fri, 10 Dec 2021 22:49:39 GMT</lastBuildDate>
     <job>
-        <title><![CDATA[job123]]></title>----- can be the same and repeat -------
+        <title><![CDATA[XML 1]]></title>----- can be the same and repeat -------
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[unique123131]]></referencenumber>
         <url>
@@ -43,7 +43,7 @@
         <price>20</price>
     </job>
     <job>
-        <title><![CDATA[Salessss Executive]]></title>----- can be the same and repeat -------
+        <title><![CDATA[XML 2]]></title>----- can be the same and repeat -------
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[unique123131]]></referencenumber>
         <url>
