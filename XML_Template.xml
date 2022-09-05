@@ -6,7 +6,7 @@
     <job>
         <title><![CDATA[XML 1]]></title>----- can be the same and repeat -------
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[unique123131]]></referencenumber>
+        <referencenumber><![CDATA[unique123133]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
         </url>
@@ -45,7 +45,7 @@
     <job>
         <title><![CDATA[XML 2]]></title>----- can be the same and repeat -------
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[unique123131]]></referencenumber>
+        <referencenumber><![CDATA[unique123132]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
         </url>
