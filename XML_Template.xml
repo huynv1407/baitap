@@ -4,13 +4,13 @@
     <publisherurl>insert gotoro app url for feed here</publisherurl>
     <lastBuildDate>Fri, 10 Dec 2021 22:49:39 GMT</lastBuildDate>
     <job>
-        <title><![CDATA[Sales Executive]]></title>----- can be the same and repeat -------
+        <title><![CDATA[job123]]></title>----- can be the same and repeat -------
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
         <referencenumber><![CDATA[unique123131]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
         </url>
-        <company><![CDATA[ABC Hospital]]></company>
+        <company><![CDATA[job123]]></company>
         <sourcename><![CDATA[ABC Medical Group]]></sourcename>(OPTIONAL)
         <city><![CDATA[Carrollton]]></city>
         <state><![CDATA[TX]]></state>
@@ -40,159 +40,5 @@
         <expirationdate><![CDATA[Mon, 08 Nov 2021]]></expirationdate>
         <remotetype><![CDATA[Remote]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
-    </job>
-    <job>
-        <title><![CDATA[Sales Executive]]></title>
-        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[unique123131]]></referencenumber>
-        <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
-        </url>
-        <company><![CDATA[ABC Hospital]]></company>
-        <sourcename><![CDATA[ABC Medical Group]]></sourcename>
-        <city><![CDATA[Dallas]]></city>
-        <state><![CDATA[TX]]></state>
-        <radius><![CDATA[25]]></radius>
-        <country><![CDATA[US]]></country>
-        <postalcode><![CDATA[75009]]></postalcode>
-        <streetaddress><![CDATA[123 Fake Street, Dallas, TX, 75009]]></streetaddress>
-        <email><![CDATA[example@abccorp.com]]></email>
-        <description>
-            <![CDATA[Do you have 1-3 years of sales experience? Are you
-            relentless at closing the deal? Are you ready for an exciting and
-            high-speed career in sales? If so, we want to hear from you! [...]
-            We provide competitive compensation, including stock options and a full
-            benefit plan. As a fast-growing business, we offer excellent opportunities
-            for exciting and challenging work. As our company continues to grow, you
-            can expect unlimited career advancement! ]]>
-        </description>
-        <salary><![CDATA[$50K per year]]></salary>
-        <education><![CDATA[Bachelors]]></education>
-        <jobtype><![CDATA[fulltime, parttime]]></jobtype>
-        <major_category><![CDATA[Category1, Category2, CategoryN]]></major_category>
-        <minor_category><![CDATA[Category1, Category2, CategoryN]]></minor_category>
-        <requirements>
-            <requirement1><![CDATA[Hazmat Endorsement]]></requirement1>
-        </requirements>
-        <experience><![CDATA[5+ years]]></experience>
-        <expirationdate><![CDATA[Mon, 08 Nov 2021]]></expirationdate>
-        <remotetype><![CDATA[in-person]]></remotetype>
-        <workschedule><![CDATA[Full Time]]></workschedule>
-        <radius><![CDATA[25]]></radius>
-    </job>
-    <job>
-        <title><![CDATA[Sales Executive]]></title>
-        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[unique123131]]></referencenumber>
-        <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
-        </url>
-        <company><![CDATA[ABC Hospital]]></company>
-        <sourcename><![CDATA[ABC Medical Group]]></sourcename>
-        <city><![CDATA[Austin]]></city>
-        <state><![CDATA[TX]]></state>
-        <country><![CDATA[US]]></country>
-        <postalcode><![CDATA[78750]]></postalcode>
-        <streetaddress><![CDATA[123 Fake Street, Austin, TX, 78750]]></streetaddress>
-        <email><![CDATA[example@abccorp.com]]></email>
-        <description>
-            <![CDATA[Do you have 1-3 years of sales experience? Are you
-            relentless at closing the deal? Are you ready for an exciting and
-            high-speed career in sales? If so, we want to hear from you! [...]
-            We provide competitive compensation, including stock options and a full
-            benefit plan. As a fast-growing business, we offer excellent opportunities
-            for exciting and challenging work. As our company continues to grow, you
-            can expect unlimited career advancement! ]]>
-        </description>
-        <salary><![CDATA[$50K per year]]></salary>
-        <education><![CDATA[Bachelors]]></education>
-        <jobtype><![CDATA[fulltime, parttime]]></jobtype>
-        <major_category><![CDATA[Category1, Category2, CategoryN]]></major_category>
-        <minor_category><![CDATA[Category1, Category2, CategoryN]]></minor_category>
-        <requirements>
-            <requirement1><![CDATA[Hazmat Endorsement]]></requirement1>
-        </requirements>
-        <experience><![CDATA[5+ years]]></experience>
-        <expirationdate><![CDATA[Mon, 08 Nov 2021]]></expirationdate>
-        <remotetype><![CDATA[COVID-19]]></remotetype>
-        <workschedule><![CDATA[Full Time]]></workschedule>
-        <radius><![CDATA[25]]></radius>
-    </job>
-    <job>
-        <title><![CDATA[Sales Executive]]></title>
-        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[unique123131]]></referencenumber>
-        <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
-        </url>
-        <company><![CDATA[ABC Hospital]]></company>
-        <sourcename><![CDATA[ABC Medical Group]]></sourcename>
-        <city><![CDATA[Phoenix]]></city>
-        <state><![CDATA[AZ]]></state>
-        <country><![CDATA[US]]></country>
-        <postalcode><![CDATA[85003]]></postalcode>
-        <streetaddress><![CDATA[123 fake street Phoenix AZ, 85003]]></streetaddress>
-        <email><![CDATA[example@abccorp.com]]></email>
-        <description>
-            <![CDATA[Do you have 1-3 years of sales experience? Are you
-            relentless at closing the deal? Are you ready for an exciting and
-            high-speed career in sales? If so, we want to hear from you! [...]
-            We provide competitive compensation, including stock options and a full
-            benefit plan. As a fast-growing business, we offer excellent opportunities
-            for exciting and challenging work. As our company continues to grow, you
-            can expect unlimited career advancement! ]]>
-        </description>
-        <salary><![CDATA[$50K per year]]></salary>
-        <education><![CDATA[Bachelors]]></education>
-        <jobtype><![CDATA[fulltime, parttime]]></jobtype>
-        <major_category><![CDATA[Category1, Category2, CategoryN]]></major_category>
-        <minor_category><![CDATA[Category1, Category2, CategoryN]]></minor_category>
-        <requirements>
-            <requirement1><![CDATA[Hazmat Endorsement]]></requirement1>
-        </requirements>
-        <experience><![CDATA[5+ years]]></experience>
-        <expirationdate><![CDATA[Mon, 08 Nov 2021]]></expirationdate>
-        <remotetype><![CDATA[COVID-19]]></remotetype>
-        <workschedule><![CDATA[Full Time]]></workschedule>
-        <radius><![CDATA[25]]></radius>
-    </job>
-    <job>
-        <title><![CDATA[Sales Executive]]></title>
-        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[unique123131]]></referencenumber>
-        <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
-        </url>
-        <company><![CDATA[ABC Hospital]]></company>
-        <sourcename><![CDATA[ABC Medical Group]]></sourcename>
-        <city><![CDATA[Phoenix]]></city>
-        <state><![CDATA[AZ]]></state>
-        <country><![CDATA[US]]></country>
-        <postalcode><![CDATA[85003]]></postalcode>
-        <streetaddress><![CDATA[123 fake street Phoenix AZ, 85003]]></streetaddress>
-        <email><![CDATA[example@abccorp.com]]></email>
-        <description>
-            <![CDATA[Do you have 1-3 years of sales experience? Are you
-            relentless at closing the deal? Are you ready for an exciting and
-            high-speed career in sales? If so, we want to hear from you! [...]
-            We provide competitive compensation, including stock options and a full
-            benefit plan. As a fast-growing business, we offer excellent opportunities
-            for exciting and challenging work. As our company continues to grow, you
-            can expect unlimited career advancement! ]]>
-        </description>
-        <salary><![CDATA[$50K per year]]></salary>
-        <education><![CDATA[Bachelors]]></education>
-        <jobtype><![CDATA[fulltime, parttime]]></jobtype>
-        <major_category><![CDATA[Category1, Category2, CategoryN]]></major_category>
-        <minor_category><![CDATA[Category1, Category2, CategoryN]]></minor_category>
-        <requirements>
-            <requirement1><![CDATA[Hazmat Endorsement]]></requirement1>
-        </requirements>
-        <experience><![CDATA[5+ years]]></experience>
-        <expirationdate><![CDATA[Mon, 08 Nov 2021]]></expirationdate>
-        <remotetype><![CDATA[COVID-19]]></remotetype>
-        <workschedule><![CDATA[]]></workschedule>
-        <radius><![CDATA[25]]></radius>
-        <price>50</price>
     </job>
 </source>
