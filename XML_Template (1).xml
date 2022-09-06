@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+	<publisher>gotoro</publisher>
+	<publisherurl>insert gotoro app url for feed here</publisherurl>
+	<lastBuildDate>Fri, 10 Dec 2021 22:49:39 GMT</lastBuildDate>
+	<job>
+		<title><![CDATA[Sales Executive]]></title>
+		<date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+		<referencenumber><![CDATA[unique123131]]></referencenumber>
+		<url>
+<![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]></url>
+		<city><![CDATA[Carrollton]]></city>
+		<state><![CDATA[TX]]></state>
+		<radius><![CDATA[45]]></radius>
+		<country><![CDATA[US]]></country>
+		<email><![CDATA[example@abccorp.com]]></email>----who should receive leads, should be able to accept comma delemeted values.--
+<description>
+<![CDATA[Do you have 1-3 years of sales experience? Are you
+relentless at closing the deal? Are you ready for an exciting and
+high-speed career in sales? If so, we want to hear from you! [...]
+We provide competitive compensation, including stock options and a full
+benefit plan. As a fast-growing business, we offer excellent opportunities
+for exciting and challenging work. As our company continues to grow, you
+can expect unlimited career advancement! ]]></description>
+			<salary_unit><![CDATA[USD]]></salary_unit>
+			<salary_from><![CDATA[1000]]></salary_from>
+			<salary_to><![CDATA[10000]]></salary_to>
+			<salary_type><![CDATA[WEEKLY]]></salary_type>
+		<major_category><![CDATA[Construction / Facilities]]></major_category>
+		<minor_category><![CDATA[Foreman]]></minor_category>
+		<requirements>
+			<requirement1><![CDATA[C#]]></requirement1>
+		</requirements>
+		<remotetype><![CDATA[REMOTE]]></remotetype>
+		<workschedule><![CDATA[FULL_TIME]]></workschedule>
+		<CPC><![CDATA[99]]></CPC>
+	</job>	
+	<job>
+		<title><![CDATA[Sales Executive]]></title>
+		<date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+		<referencenumber><![CDATA[unique123131]]></referencenumber>
+		<url>
+<![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]></url>
+		<city><![CDATA[Carrollton]]></city>
+		<state><![CDATA[TX]]></state>
+		<radius><![CDATA[45]]></radius>
+		<country><![CDATA[US]]></country>
+		<postalcode><![CDATA[00501]]></postalcode>
+		<email><![CDATA[example@abccorp.com]]></email>----who should receive leads, should be able to accept comma delemeted values.--
+<description>
+<![CDATA[Do you have 1-3 years of sales experience? Are you
+relentless at closing the deal? Are you ready for an exciting and
+high-speed career in sales? If so, we want to hear from you! [...]
+We provide competitive compensation, including stock options and a full
+benefit plan. As a fast-growing business, we offer excellent opportunities
+for exciting and challenging work. As our company continues to grow, you
+can expect unlimited career advancement! ]]></description>
+		<salary_unit><![CDATA[USD]]></salary_unit>
+			<salary_from><![CDATA[1000]]></salary_from>
+			<salary_to><![CDATA[10000]]></salary_to>
+			<salary_type><![CDATA[WEEKLY]]></salary_type>
+		<major_category><![CDATA[Construction / Facilities]]></major_category>
+		<minor_category><![CDATA[Foreman]]></minor_category>
+		<requirements>
+			<requirement1><![CDATA[C#]]></requirement1>
+		</requirements>
+		<remotetype><![CDATA[REMOTE]]></remotetype>
+		<workschedule><![CDATA[FULL_TIME]]></workschedule>
+		<CPC><![CDATA[88]]></CPC>
+	</job>		
+</source>
+1
