@@ -6,7 +6,7 @@
     <job>
         <title><![CDATA[Sales Executive]]></title>----- can be the same and repeat -------
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <reference_id><![CDATA[unique123132]]></reference_id>
+        <reference_id><![CDATA[unique12313123]]></reference_id>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
         </url>
@@ -45,7 +45,7 @@
     <job>
         <title><![CDATA[Sales Executive]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <reference_id><![CDATA[unique123133]]></reference_id>
+        <reference_id><![CDATA[unique123121333]]></reference_id>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed]]>
         </url>
